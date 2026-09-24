@@ -61,6 +61,8 @@ figcaption, table caption
   background-color: $color-terciario-t5
 .bg-secundario-s5
   background-color: $color-secundario-s5
+.bg-contenido-a5
+  background-color: $color-acento-contenido-a5
   
 .bg-img
   background-image: url("../assets/curso/common/bg-secundario.png")
@@ -72,6 +74,12 @@ figcaption, table caption
 
 .bg-audio
   background: url('../assets/curso/common/bg-audio.png')
+  background-size: cover
+  background-position: center
+  background-repeat: no-repeat
+
+.bg-slider
+  background: url('../assets/curso/common/bg-slider.png')
   background-size: cover
   background-position: center
   background-repeat: no-repeat
@@ -136,3 +144,47 @@ figcaption, table caption
       color: $white !important
   .acordion__activo
     background-color: $color-primario-p5
+
+.tabs-a__tab
+  background-color: $color-secundario-s10
+
+.tabs-a__content-item
+  .tabs-a__content-item--active
+    background-color: $color-acento-contenido-a5
+
+.tabs-a.custom-tabs
+  .col-lg-4.col-xl-3
+    @media screen and (min-width: $bp-min-lg)
+      width: 50%
+    // @media screen and (min-width: $bp-min-xl)
+    //   width: 55%
+  .col-lg-8.col-xl-9
+    @media screen and (min-width: $bp-min-lg)
+      width: 50%
+    // @media screen and (min-width: $bp-min-xl)
+    //   width: 45%
+
+.slyder-f
+  align-items: center
+  border-radius: 20px
+
+  .slyder-f__main
+    width: 70%
+
+    @media (min-width: 769px)
+      width: 80%
+
+.slyder-f__btn
+  height: 46px
+  width: 46px
+  max-width: 46px
+  background-color: $color-acento-botones
+  border-radius: 50%
+  padding: 0 !important
+  margin: 0 auto
+  .fa-chevron-left
+    font-size: 18px
+    color: $white
+  .fa-chevron-right
+    font-size: 18px
+    color: $white

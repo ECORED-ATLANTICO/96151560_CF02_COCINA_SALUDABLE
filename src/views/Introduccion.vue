@@ -19,7 +19,7 @@
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-9
         p Mientras que la cocina caliente seduce con los aromas que se desprenden durante la cocción, la cocina fría debe conquistar al comensal a través de la frescura de sus ingredientes, la nitidez de sus cortes, la explosión de sabores en boca y una presentación visual impecable que anticipa el deleite.
-        .bg-img.bg-img--terciario.rounded-4.p-4.py-3.overflow-hidden.mb-4.mb-lg-0
+        .bg-img.bg-img--terciario.rounded-4.p-4.py-3.overflow-hidden.mb-3
           .row.justify-content-center.align-items-center
             .col-lg-1.d-none.d-lg-block.px-1
               figure
