@@ -59,6 +59,8 @@ figcaption, table caption
 
 .bg-terciario-t5
   background-color: $color-terciario-t5
+.bg-secundario-s5
+  background-color: $color-secundario-s5
   
 .bg-img
   background-image: url("../assets/curso/common/bg-secundario.png")
@@ -68,6 +70,37 @@ figcaption, table caption
   &--terciario
     background-image: url("../assets/curso/common/bg-terciario-img.png")
 
+.bg-audio
+  background: url('../assets/curso/common/bg-audio.png')
+  background-size: cover
+  background-position: center
+  background-repeat: no-repeat
+
+.fullwidth-bg
+  display: none
+  @media screen and (min-width: 768px)
+    display: block
+  position: relative
+  z-index: 0
+
+  &--1::after
+    top: 0px
+    left: -50px
+    position: absolute
+    content: url('../assets/curso/common/bg-1.png')
+
+.imgw-64
+  width: 64px
+  margin: 0 auto
+
+.imgw-100
+  width: 100px
+  margin: 0 auto
+
+.imgw-281
+  width: 281px
+  margin: 0 auto
+
 .banner-text
   background: $white
   border-radius: 10px
@@ -76,3 +109,30 @@ figcaption, table caption
   @media screen and (min-width: $bp-min-md)
     padding: 20px 30px
     margin-top: -80px
+
+.z-2
+  z-index: 2
+  position: relative
+
+.tarjeta-audio
+  background-color: $white
+  &__texto
+    color: $color-sistema-texto !important
+
+  .tarjeta-audio__input input[type=range]
+    background-color: $color-acento-contenido !important
+
+  .audio__btn
+    background-color: $color-acento-botones !important
+
+  &__tiempo
+    color: $color-sistema-texto !important
+
+.acordion
+  &__accion__btn--b
+    background-color: $color-acento-botones
+    border-color: $color-acento-botones
+    .fas.fa-angle-down, .fas.fa-angle-up
+      color: $white !important
+  .acordion__activo
+    background-color: $color-primario-p5
