@@ -1,1 +1,1 @@
-module.exports = 'Titulo del componente formativo'
+module.exports = 'Cocina fría: técnicas, preparaciones y emplatado profesional'
