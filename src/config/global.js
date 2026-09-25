@@ -212,14 +212,150 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Acidificación',
+      significado:
+        'Método de "cocción" de proteínas (pescado, mariscos) mediante su inmersión en un medio ácido (jugo de limón, vinagre), que desnaturaliza sus proteínas.',
+    },
+    {
+      termino: '<em>Brunoise</em>',
+      significado:
+        'Corte en dados muy pequeños, de aproximadamente 2 a 3 mm por lado. se obtiene picando finamente la juliana.',
+    },
+    {
+      termino: '<em>Canapé</em>',
+      significado:
+        'Pequeña preparación salada que se sirve como aperitivo, consistente en una base (pan, masa, vegetal) cubierta con un <em>topping</em> decorativo.',
+    },
+    {
+      termino: 'Ceviche',
+      significado:
+        'Plato latinoamericano que consiste en pescado o mariscos crudos cortados en cubos y "cocidos" en jugo de limón o naranja agria, mezclado con cebolla, cilantro y ají.',
+    },
+    {
+      termino: '<em>Chiffonade</em>',
+      significado:
+        'Corte de hierbas o verduras de hoja en tiras muy finas, logrado al enrollar las hojas y cortarlas perpendicularmente.',
+    },
+    {
+      termino: '<em>Concassé</em>',
+      significado:
+        'Técnica y corte específico para el tomate que implica escaldarlo, pelarlo, despepitarlo y cortar su pulpa en cubos pequeños.',
+    },
+    {
+      termino: 'Emplatado',
+      significado:
+        'El arte de disponer y decorar los alimentos en el plato de manera estética y funcional, considerando la armonía de colores, texturas, sabores y alturas.',
+    },
+    {
+      termino: 'Escabeche',
+      significado:
+        'Método de conservación y preparación que consiste en cocer un alimento y sumergirlo en una mezcla hirviente de aceite, vinagre y especias, sirviéndose frío.',
+    },
+    {
+      termino: '<em>Farce</em>',
+      significado:
+        'Mezcla de carnes magras, grasas, huevos, crema y especias, procesada hasta obtener una pasta fina, utilizada como relleno en <em>patés</em>, terrinas y galantinas.',
+    },
+    {
+      termino: '<em>Garde Manger</em>',
+      significado:
+        'Término francés que designa tanto el área de la cocina fría como al chef especializado en ella. literalmente significa "guardar para comer".',
+    },
+    {
+      termino: 'Galantina',
+      significado:
+        'Preparación donde una pieza de ave o pescado se deshuesa, se rellena con una <em>farce</em>, se enrolla y se cocina. se sirve fría.',
+    },
+    {
+      termino: 'Juliana',
+      significado:
+        'Corte en tiras finas y alargadas, de aproximadamente 3-4 cm de largo por 2 mm de ancho.',
+    },
+    {
+      termino: 'Macedonia',
+      significado:
+        'Corte en dados medianos y uniformes, de aproximadamente 5 a 8 mm por lado.',
+    },
+    {
+      termino: '<em>Mise en Place</em>',
+      significado:
+        'Término francés que significa "poner en su lugar". se refiere a la organización y preparación previa de todos los ingredientes y utensils necesarios para el servicio.',
+    },
+    {
+      termino: '<em>Mousse</em>',
+      significado:
+        'Preparación ligera y aireada, dulce o salada, que se elabora incorporando un elemento aireado (claras o crema batida) a una base saborizada.',
+    },
+    {
+      termino: '<em>Mousseline</em>',
+      significado:
+        'Tipo de <em>farce</em> de textura muy fina y aireada, elaborada con partes iguales de proteína cruda y crema de leche.',
+    },
+    {
+      termino: '<em>Paté</em>',
+      significado:
+        'Preparación de cocina fría que consiste en una <em>farce</em> de carnes (a menudo hígado) envuelta en una masa y horneada. se sirve frío.',
+    },
+    {
+      termino: 'Terrina',
+      significado:
+        'Preparación similar al <em>paté</em>, pero cocida a baño maría en un molde (terrina) sin masa. se sirve fría en rebanadas.',
+    },
+    {
+      termino: '<em>Tourné</em>',
+      significado:
+        'Corte decorativo en forma de barril o de siete caras, aplicado principalmente a verduras.',
     },
   ],
   referencias: [
     {
-      referencia: 'REF',
-      link: 'LINK',
+      referencia:
+        'Asociación de Chefs del Ecuador. (2018). <em>Guía de técnicas culinarias</em>.',
+      link: 'https://www.nestle.com.ec/sites/g/files/pydnoa396/files/2019-07/guia%20de%20tecnicas%20culinarias%20digital%20%28002%29.pdf',
+    },
+    {
+      referencia: 'Cadena, J., & Francisco, E. (2024). <em>Cocina Fría</em>.',
+      link: 'https://intesud-repositoriodigital.edu.ec/jspui/handle/INTESUD/117',
+    },
+    {
+      referencia:
+        'Codex Alimentarius Commission. (2023). <em>Principios generales de higiene de los alimentos (CXC 1-1969)</em>. Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) y Organización Mundial de la Salud (OMS).',
+      link: 'https://www.fao.org/fao-who-codexalimentarius',
+    },
+    {
+      referencia:
+        'Congreso de la República de Colombia. (1979, 24 de enero). Ley 9 de 1979, por la cual se dictan Medidas Sanitarias. <em>Diario Oficial</em> No. 35308.',
+      link: '',
+    },
+    {
+      referencia:
+        'del Valle Araujo, A. (2012). <em>Preparación de Alimentos III</em>. Red Tercer Milenio.',
+      link: '',
+    },
+    {
+      referencia:
+        'Gisslen, W. (2017). <em>Professional Cooking</em> (9th ed.). John Wiley & Sons.',
+      link: '',
+    },
+    {
+      referencia:
+        'Manual de Cocina Fría - Carrera de Profesional Gastronómico. (s.f.). [Documento interno, Instituto Argentino de Gastronomía].',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (1997, 10 de diciembre). Decreto 3075 de 1997, por el cual se reglamenta parcialmente la Ley 09 de 1979. <em>Diario Oficial</em> No. 43246.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (2013, 22 de julio). Resolución 2674 de 2013, por la cual se reglamenta el artículo 14 de la Ley 09 de 1979. <em>Diario Oficial</em> No. 48877.',
+      link: '',
+    },
+    {
+      referencia:
+        'Velasco, J. C. R. (2024, 18 de julio). <em>Técnicas básicas de cocina</em>. Sello Editorial Unicomfacauca.',
+      link: 'https://selloeditorial.unicomfacauca.edu.co/Publicaciones/catalog/book/19',
     },
   ],
   creditos: [
