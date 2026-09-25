@@ -47,7 +47,7 @@
           .tarjeta.p-4.bg-contenido-a5.py-5(titulo="Finales del siglo XIX y comienzos del XX ")
             p.mb-0 #[em Auguste Escoffier]
             p.mb-0 (1846-1935). Organizó la cocina en brigadas, profesionalizó la figura del #[em Garde Manger] y estableció sus funciones, que perduran hasta hoy.
-          .tarjeta.p-4.bg-contenido-a5.py-5(titulo="FMediados y finales del siglo XX")
+          .tarjeta.p-4.bg-contenido-a5.py-5(titulo="Mediados y finales del siglo XX")
             p.mb-0 La expansión de la refrigeración y congelación transformó la conservación y producción de alimentos. La cocina fría amplió su repertorio e incorporó mayores controles de temperatura, higiene, almacenamiento e inocuidad.
           .tarjeta.p-4.bg-contenido-a5.py-5(titulo="Actualidad")
             p.mb-0 Integra técnicas tradicionales con tendencias de alimentación saludable, productos frescos, preparaciones vegetales, control de porciones y presentaciones creativas. También incorpora nuevos equipos, tecnologías de conservación y criterios más rigurosos de sostenibilidad e inocuidad.
@@ -172,7 +172,7 @@
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/tema1/16.png", alt="alt")
-          .crd_hover_txt--body.p-4
+          .crd_hover_txt--body.p-4.pt-3
             h4.mb-3 Recepción  
             p.mb-0 Verifique temperatura (≤ 4°C) y aspecto de los productos. Rechace si hay ruptura de cadena.    
       .col-sm-6.col-xl-3.mb-4
@@ -180,7 +180,7 @@
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/tema1/17.png", alt="alt")
-          .crd_hover_txt--body.p-4
+          .crd_hover_txt--body.p-4.pt-3
             h4.mb-3 Almacenamiento 
             p.mb-0 Guarde los productos en nevera o congelador de inmediato. Use el método PEPS. 
       .col-sm-6.col-xl-3.mb-4
@@ -188,7 +188,7 @@
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/tema1/18.png", alt="alt")
-          .crd_hover_txt--body.p-4
+          .crd_hover_txt--body.p-4.pt-3
             h4.mb-3 Preparación controlada 
             p.mb-0 No descongele a temperatura ambiente. Trabaje con porciones pequeñas. Refrigere si la preparación se demora. 
       .col-sm-6.col-xl-3.mb-4.mb-xl-0
@@ -196,7 +196,7 @@
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/tema1/19.png", alt="alt")
-          .crd_hover_txt--body.p-4
+          .crd_hover_txt--body.p-4.pt-3
             h4.mb-3 Servicio con baño de hielo 
             p.mb-0 Use baños de hielo para mantener las preparaciones frías durante el servicio. Nunca mezcle sobras con preparaciones frescas. 
 

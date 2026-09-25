@@ -256,3 +256,15 @@ figcaption, table caption
 
 .accesibilidad
   z-index: 3
+
+.checklist
+  li
+    position: relative
+    &::before
+      content: url('../assets/curso/common/list-dot.svg')
+      display: inline-block
+      width: 1em
+      margin-left: -1em
+      width: 9px
+      height: 9px
+    
