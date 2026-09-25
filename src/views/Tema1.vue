@@ -118,20 +118,215 @@
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.3	Higiene, cadena de frío y seguridad en cocina fría 
 
+    .row.justify-content-center.align-items-center.mb-4.mb-lg-5
+      .col-sm-6.col-lg-3
+        figure
+          img.mb-4.mb-lg-0(src="@/assets/curso/tema1/14.png", alt="" data-aos="zoom-in-down")
+      .col-lg-9
+        p La cocina fría es especialmente vulnerable a la contaminación por microorganismos patógenos, ya que muchas de sus preparaciones (ensaladas, ceviches, sándwiches, #[em patés]) no reciben un tratamiento térmico final que elimine las bacterias. Por lo tanto, el cumplimiento de las Buenas Prácticas de Manufactura (BPM) y el control riguroso de la cadena de frío son sus principios de seguridad más importantes.
+        .bg-img.bg-img--terciario.rounded-4.p-4
+          p.mb-0 La cadena de frío es el sistema que garantiza que los alimentos perecederos se mantengan a una temperatura segura y constante (generalmente entre 0°C y 4°C para refrigeración, y -18°C o menos para congelación) desde su recepción hasta su consumo. Su ruptura es una de las principales causas de Enfermedades Transmitidas por Alimentos (ETA).  
 
+    .titulo-sexto.color-acento-contenido.mb-4.z-2
+      h5 Tabla 1.
+      span Aplicación práctica de la cadena de frío en cocina fría
+    .tabla-a.color-secundario.tabla-a--text-left.mb-5.z-2
+      table
+        thead
+          tr(style="background-color: #FFFEF0")
+            th Etapa
+            th(colspan="2") Acción del Garde Manger 
+            th(colspan="2") Por qué es crítico 
+        tbody
+          tr
+            td Recepción 
+            td(colspan="2") Verificar la temperatura de los productos con termómetro. Carnes, pescados y lácteos deben llegar a ≤ 4°C. Los congelados a ≤ -18°C. 
+            td(colspan="2") Un producto recibido a temperatura inadecuada ya ha iniciado su deterioro y proliferación bacteriana. 
+          tr
+            td Almacenamiento 
+            td(colspan="2") Almacenar inmediatamente en neveras o congeladores. Organizar por tipo: alimentos cocidos arriba, crudos abajo para evitar contaminación cruzada. 
+            td(colspan="2") Mantener la temperatura estable (evitar abrir la puerta innecesariamente) es vital para ralentizar el crecimiento bacteriano. 
+          tr
+            td Preparación 
+            td(colspan="2") Trabajar con lotes pequeños, no dejando los ingredientes fuera de refrigeración por más de 30 minutos. Usar recipientes con hielo para mantener frías las salsas. 
+            td(colspan="2") El tiempo fuera de frío es acumulativo. Cada minuto que un alimento pasa en la "zona de peligro" (5°C - 60°C) aumenta el riesgo de ETA. 
+          tr
+            td Servicio 
+            td(colspan="2") Mantener ensaladas, salsas y patés en fuentes de baño maría con hielo o en refrigeradores de mostrador. 
+            td(colspan="2") El alimento debe permanecer fuera de la zona de peligro hasta el momento de ser consumido. 
 
+    p.mb-4 Después de reconocer los aspectos relacionados con la aplicación práctica de la cadena de frío en cocina fría, resulta importante comprender cómo se articulan las diferentes etapas para conservar adecuadamente los alimentos y preparaciones.  
 
+    .bg-primario-p10.mb-4
+      .row.justify-content-center.align-items-center
+        .col-auto.col-lg-5
+          figure
+            img(src='@/assets/curso/tema1/15.png', alt='')
+        .col-lg
+          .p-4
+            p.mb-0 El control continuo de la temperatura, desde la recepción y el almacenamiento hasta la preparación y el servicio, contribuye a preservar su calidad e inocuidad y a prevenir riesgos asociados con una manipulación inadecuada. A continuación, se representa de manera secuencial este proceso y los controles que deben mantenerse durante su desarrollo: 
 
+    .row.justify-content-center
+      .col-sm-6.col-xl-3.mb-4
+        .crd_hover_txt(data-aos="flip-left").tarjeta
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/tema1/16.png", alt="alt")
+          .crd_hover_txt--body.p-4
+            h4.mb-3 Recepción  
+            p.mb-0 Verifique temperatura (≤ 4°C) y aspecto de los productos. Rechace si hay ruptura de cadena.    
+      .col-sm-6.col-xl-3.mb-4
+        .crd_hover_txt(data-aos="flip-left").tarjeta
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/tema1/17.png", alt="alt")
+          .crd_hover_txt--body.p-4
+            h4.mb-3 Almacenamiento 
+            p.mb-0 Guarde los productos en nevera o congelador de inmediato. Use el método PEPS. 
+      .col-sm-6.col-xl-3.mb-4
+        .crd_hover_txt(data-aos="flip-left").tarjeta
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/tema1/18.png", alt="alt")
+          .crd_hover_txt--body.p-4
+            h4.mb-3 Preparación controlada 
+            p.mb-0 No descongele a temperatura ambiente. Trabaje con porciones pequeñas. Refrigere si la preparación se demora. 
+      .col-sm-6.col-xl-3.mb-4.mb-xl-0
+        .crd_hover_txt(data-aos="flip-left").tarjeta
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/tema1/19.png", alt="alt")
+          .crd_hover_txt--body.p-4
+            h4.mb-3 Servicio con baño de hielo 
+            p.mb-0 Use baños de hielo para mantener las preparaciones frías durante el servicio. Nunca mezcle sobras con preparaciones frescas. 
 
+    p.mb-4 Además de la cadena de frío, el #[em Garde Manger] debe aplicar rigurosamente:
 
+    .row.align-items-stretch
+      .col-lg-4.mb-4.mb-lg-0
+        .tarjeta-avatar-b.h-100
+          .tarjeta-avatar-b__img
+            img.imgw-84(src='@/assets/curso/tema1/20.svg' alt='')
+          .tarjeta.bg-primario-p10
+            .p-4
+              p.mb-0 #[strong Limpieza y desinfección (tren de lavado de 5 pasos)]: especialmente importante al cambiar de tipo de alimento (ej. después de cortar pollo crudo y antes de tocar vegetales para ensalada).
+      .col-lg-4.mb-4.mb-lg-0
+        .tarjeta-avatar-b.h-100
+          .tarjeta-avatar-b__img
+            img.imgw-84(src='@/assets/curso/tema1/21.svg' alt='')
+          .tarjeta.bg-primario-p10
+            .p-4
+              p.mb-0 #[strong Prevención de contaminación cruzada]: uso de tablas de colores (verde para vegetales, rojo para carnes, azul para pescados) y cuchillos diferenciados.
+      .col-lg-4.mb-4.mb-lg-0
+        .tarjeta-avatar-b.h-100
+          .tarjeta-avatar-b__img
+            img.imgw-84(src='@/assets/curso/tema1/22.svg' alt='')
+          .tarjeta.bg-primario-p10
+            .p-4
+              p.mb-0 #[strong Higiene personal]: lavado de manos frecuente (5 momentos), uniforme limpio, uñas cortas, cabello recogido. Un manipulador enfermo no debe manipular alimentos.
 
+    separador
+    #t_1_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 1.4	El flujo de trabajo en la cocina fría: #[em mise en place] y organización del puesto 
 
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require_src('@/assets/curso/tema1/23.png')})`}"
+      )
+      .bloque-texto-g__texto.p-4
+        p.mb-0 La eficiencia en una cocina profesional depende de una planificación meticulosa. El término francés mise en place significa "poner en su lugar" y es la práctica fundamental para cualquier cocinero, pero especialmente para el Garde Manger, donde los tiempos de servicio son muy rápidos y los pedidos pueden ser numerosos y variados. Una correcta mise en place para cocina fría se divide en dos categorías (Jiménez Cadena, 2024; Ramos Velasco, 2023):
 
+    .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5
+      .col-sm-10.col-lg-6.mb-4.mb-lg-0
+        .bg-img.bg-img--sqrt.rounded-4.p-4.mb-3.h-100
+          .row.justify-content-center.align-items-center
+            .col-4.col-lg-3.col-xl-2
+              figure
+                img.mb-4.mg-xl-0(src='@/assets/curso/tema1/24.svg', alt='')
+            .col-xl-10
+              h5 #[em Mise en place] constante
+              p.mb-0 Es la preparación base que se realiza con anticipación, independientemente del menú del día. Incluye:
+              ul.lista-ul.mb-0
+                li.mb-0.d-flex
+                  i.lista-ul__vineta
+                  span Lavar, desinfectar y secar las lechugas y hojas verdes.
+                li.mb-0.d-flex
+                  i.lista-ul__vineta
+                  span Tener preparados cortes básicos (juliana de zanahoria, brunoise de cebolla, macedonia de vegetales).
+                li.mb-0.d-flex
+                  i.lista-ul__vineta
+                  span Elaborar salsas madre frías (mayonesa, vinagreta base, salsa golf, salsa tártara).
+                li.mb-0.d-flex
+                  i.lista-ul__vineta
+                  span Tener listos fondos, caldos y reducciones.	 
+      .col-sm-10.col-lg-6
+        .bg-img.bg-img--sqrc.rounded-4.p-4.mb-3.h-100
+          .row.justify-content-center.align-items-center
+            .col-4.col-lg-3.col-xl-2
+              figure
+                img.mb-4.mg-xl-0(src='@/assets/curso/tema1/25.svg', alt='')
+            .col-xl-10
+              h5 #[em Mise en place] variable
+              p.mb-0 Es la preparación específica para el menú del día, basada en la rotación de inventarios y los pedidos. Incluye:
+              ul.lista-ul.mb-0
+                li.mb-0.d-flex
+                  i.lista-ul__vineta
+                  span Cortar los vegetales específicos de las ensaladas del día (ej. aguacate, mango, pepino).
+                li.mb-0.d-flex
+                  i.lista-ul__vineta
+                  span Marinar y cortar el pescado para el ceviche de turno.
+                li.mb-0.d-flex
+                  i.lista-ul__vineta
+                  span Preparar las guarniciones especiales (chips de betabel, crutones de pan integral, semillas tostadas).
+                li.mb-0.d-flex
+                  i.lista-ul__vineta
+                  span Montar los canapés o sándwiches según los pedidos.	 
 
+    p.mb-4.mb-lg-5  La organización del puesto de trabajo en la estación del Garde Manger es fundamental para desarrollar las preparaciones de cocina fría de manera ordenada, eficiente y segura. Para lograrlo, la estación puede estructurarse en áreas funcionales destinadas a operaciones específicas, las cuales son:  
 
+    .titulo-sexto.color-acento-contenido.mb-4.z-2
+      h5 Tabla 2.
+      span Organización del puesto de trabajo (estación del #[em Garde Manger])
+    .tabla-a.color-secundario.tabla-a--text-left.mb-5.z-2
+      table
+        thead
+          tr(style="background-color: #FFFEF0")
+            th(colspan="2") Zona de la estación 
+            th(colspan="3") Elementos 
+            th(colspan="2") Función 
+        tbody
+          tr
+            td(colspan="2") Zona de corte 
+            td(colspan="3") Tabla de picar (verde para vegetales), juego de cuchillos (chef, puntilla, fileteador), mandolina, afilador (chaira). 
+            td(colspan="2") Realizar todos los cortes de vegetales, frutas y proteínas. 
+          tr
+            td(colspan="2") Zona de preparación de salsas 
+            td(colspan="3") Batidora de mano o procesador de alimentos, #[em bowls], cucharas, espátulas, ingredientes para salsas (aceite, vinagre, yemas, hierbas). 
+            td(colspan="2") Emulsionar vinagretas, mayonesas y otras salsas frías. 
+          tr
+            td(colspan="2") Zona de montaje 
+            td(colspan="3") Mesón limpio, pinzas, cucharas para servir, aros de emplatar, mangas pasteleras, fuente para baño de hielo. 
+            td(colspan="2") Ensamblar ensaladas, emplatar patés y terrinas, decorar platos. 
+          tr
+            td(colspan="2") Zona de almacenamiento temporal 
+            td(colspan="3") Recipientes herméticos etiquetados con fecha, papel #[em film], bandejas gastronorm. 
+            td(colspan="2") Guardar los ingredientes ya cortados y las salsas preparadas en refrigeración. 
 
-
-
+    .row.justify-content-center.align-items-center.mb-4
+      .col-xl-10
+        .bg-audio.rounded-4.px-4.py-4.py-lg-0
+          .row.align-items-center.justify-content-center
+            .col-sm-8.col-lg-8
+              p A continuación, se invita a ir al siguiente podcast: 
+              TarjetaAudio.mb-3.color-terciario(
+                texto="El Garde Manger organización mise en place y control de la cadena de frío en la cocina fría. "
+                tiempo
+                :audio="require_src('@/assets/curso/podcast/podcast1.mp3')"
+                @audio-hover="mostrarIndicadorTarjetaAudio = false")
+            .col-8.col-sm-4
+              figure
+                img.imgw-281(src="@/assets/curso/common/mic.png", alt="")
+ 
 </template>
 
 <script>

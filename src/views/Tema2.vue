@@ -187,7 +187,7 @@
             .col-sm-8.col-lg-8
               p A continuación, se invita a ir al siguiente podcast: 
               TarjetaAudio.mb-3.color-terciario(
-                texto="¿Qué valor ofrezco al cliente? La propuesta de valor como base del emprendimiento"
+                texto="Técnicas de corte profesional precisión estética y seguridad en la cocina fría"
                 tiempo
                 :audio="require_src('@/assets/curso/podcast/podcast1.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false")
