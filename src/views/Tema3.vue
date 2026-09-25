@@ -124,7 +124,7 @@
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/tema3/7.png", alt="alt")
-          .crd_hover_txt--body.p-4
+          .crd_hover_txt--body.p-4.py-3
             h4.mb-3 Proporción clásica de la mayonesa:
             p.mb-0 1 yema de huevo por cada 150 cm³ de aceite. Esta proporción permite obtener una emulsión estable, cremosa y con la consistencia característica de la mayonesa. 
       .col-sm-9.col-lg-6.mb-4
@@ -132,7 +132,7 @@
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/tema3/8.png", alt="alt")
-          .crd_hover_txt--body.p-4
+          .crd_hover_txt--body.p-4.py-3
             h4.mb-3 Técnica:
             p.mb-0 Se bate la yema con una pizca de sal y una gota de vinagre o limón. Luego, se añade el aceite en forma de hilo, sin dejar de batir, hasta lograr una emulsión firme y brillante. 
 
@@ -223,21 +223,21 @@
         p.mb-0 Las ensaladas constituyen preparaciones fundamentales dentro de la cocina fría, debido a su versatilidad y a la posibilidad de combinar ingredientes frescos con diferentes sabores, colores, texturas y aportes nutricionales. Su elaboración requiere considerar la calidad y frescura de las materias primas, los cortes, la proporción de los ingredientes, el aderezo, la inocuidad y la presentación final. De acuerdo con su composición, pueden clasificarse principalmente en simples y compuestas. 
 
     .row.justify-content-center
-      .col-lg-9.col-xl-6.mb-4
+      .col-sm-10.col-lg-9.col-xl-6.mb-4
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/tema3/15.png", alt="alt")
-          .crd_hover_txt--body.p-4
+          .crd_hover_txt--body.p-4.py-3
             h4.mb-2.mb-sm-3 Ensaladas simples 
             p.mb-1 Se elaboran con uno o pocos ingredientes principales, generalmente vegetales o frutas, procurando conservar sus características naturales. Pueden complementarse con un aderezo sencillo. 
             p.mb-0 #[strong Ejemplo]: ensalada de tomate y pepino; hojas verdes con vinagreta; zanahoria rallada con limón. 
-      .col-lg-9.col-xl-6.mb-4
+      .col-sm-10.col-lg-9.col-xl-6.mb-4
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/tema3/16.png", alt="alt")
-          .crd_hover_txt--body.p-4
+          .crd_hover_txt--body.p-4.py-3
             h4.mb-2.mb-sm-3 Ensaladas compuestas 
             p.mb-1 Integran varios ingredientes de diferentes grupos alimentarios, permitiendo desarrollar preparaciones con mayor variedad de sabores, texturas y nutrientes. Pueden incorporar vegetales, frutas, cereales, leguminosas o proteínas. 
             p.mb-0 #[strong Ejemplo]: ensalada de pollo con vegetales; ensalada de garbanzos; ensalada de quinua con verduras; ensalada de atún y vegetales. 
