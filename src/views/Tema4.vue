@@ -7,7 +7,7 @@
         span 4
       h1 Preparaciones especializadas de cocina fría
     
-    .row.justify-content-center.align-items-center.mb-4.mb-lg-5
+    .row.justify-content-center.align-items-center
       .col-sm-6.col-lg-3
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema4/1.png", alt="" data-aos="zoom-in-down")
@@ -23,12 +23,12 @@
     img(data-aos="fade-up")(src="@/assets/curso/tema4/2.png", alt="")   
     .row.justify-content-center.z-2
       .col-lg-10.p-4(data-aos="fade-down")
-        div.banner-text.shadow
+        div.banner-text.shadow.mb-3
           p.mb-0 El ceviche es quizás el plato más emblemático de la cocina fría en Latinoamérica. Se basa en el principio de la acidificación: las proteínas del pescado o marisco crudo se desnaturalizan al entrar en contacto con el ácido cítrico del jugo de limón o naranja agria, adquiriendo una textura firme y opaca similar a la cocción por calor (Jiménez Cadena, 2024).
     
-    p.mb-4.mb-lg-5.z-2 A continuación, se presenta de manera secuencial las etapas básicas para su preparación:
+    p.mb-4.z-2 A continuación, se presenta de manera secuencial las etapas básicas para su preparación:
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center.mb-4
       .col-xl-9
         TabsA.color-secundario.custom-tabs.mb-4.mb-lg-0
           .tarjeta.p-4.bg-contenido-a5.py-5(titulo="Selección y corte ")
@@ -79,7 +79,7 @@
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.2	Patés, terrinas y galantinas: la #[em farce] y la #[em mousseline] 
 
-    p.mb-4.mb-lg-5.z-2 Estas preparaciones representan la haute cuisine de la cocina fría. Son elaboraciones que requieren técnica, paciencia, precisión y una presentación impecable. Son el patrimonio del Garde Manger (Manual de Cocina Fría, s.f.; del Valle Araujo, 2012). A continuación, se muestran sus características más importantes 
+    p.mb-4.z-2 Estas preparaciones representan la haute cuisine de la cocina fría. Son elaboraciones que requieren técnica, paciencia, precisión y una presentación impecable. Son el patrimonio del #[em Garde Manger] (Manual de Cocina Fría, s.f.; del Valle Araujo, 2012). A continuación, se muestran sus características más importantes 
 
     .bg-carousel.p-4.z-2.rounded-4.mb-4
       SlyderA(tipo="b")

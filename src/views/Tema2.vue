@@ -7,7 +7,7 @@
         span 2
       h1 Dominio de cortes en verduras y frutas
 
-    .bg-img.bg-img--terciario.rounded-4.p-4.overflow-hidden.mb-4.mb-lg-0
+    .bg-img.bg-img--terciario.rounded-4.p-4.overflow-hidden
         .row.justify-content-center.align-items-center
           .col-lg-1.d-none.d-lg-block.px-1
             figure

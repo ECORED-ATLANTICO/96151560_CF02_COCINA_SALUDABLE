@@ -25,7 +25,7 @@
     
     .row.justify-content-center.z-2
       .col-lg-10.p-4(data-aos="fade-down")
-        div.banner-text.shadow
+        div.banner-text.shadow.mb-3
           p.mb-0 La cocina fría se define como el área dentro de una cocina profesional encargada de la preparación y servicio de alimentos que se consumen a temperatura fría, independientemente de si su proceso de elaboración incluye o no una cocción previa. Abarca una amplia variedad de preparaciones: ensaladas, aderezos, canapés, patés, terrinas, ahumados, escabeches, ceviches, sándwiches y todo tipo de entremeses fríos.
     
     .row.justify-content-center.align-items-center.z-2.mb-4
@@ -110,8 +110,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
           span Jerarquía de la brigada de cocina con enfoque en el #[em Garde Manger] 
-        img.mb-5.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/fig-mob.svg", alt="La figura representa la estructura organizativa de una brigada de cocina profesional. La información se distribuye desde los niveles de mayor responsabilidad y coordinación hacia áreas especializadas y funciones operativas, mostrando mediante conexiones la relación de autoridad y apoyo entre los integrantes. La composición permite comprender cómo se distribuyen las responsabilidades y cómo se articulan diferentes especialidades para facilitar el funcionamiento coordinado de la cocina.")
-        img.mb-5.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/fig.svg", alt="La figura representa la estructura organizativa de una brigada de cocina profesional. La información se distribuye desde los niveles de mayor responsabilidad y coordinación hacia áreas especializadas y funciones operativas, mostrando mediante conexiones la relación de autoridad y apoyo entre los integrantes. La composición permite comprender cómo se distribuyen las responsabilidades y cómo se articulan diferentes especialidades para facilitar el funcionamiento coordinado de la cocina.")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/fig-mob.svg", alt="La figura representa la estructura organizativa de una brigada de cocina profesional. La información se distribuye desde los niveles de mayor responsabilidad y coordinación hacia áreas especializadas y funciones operativas, mostrando mediante conexiones la relación de autoridad y apoyo entre los integrantes. La composición permite comprender cómo se distribuyen las responsabilidades y cómo se articulan diferentes especialidades para facilitar el funcionamiento coordinado de la cocina.")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/fig.svg", alt="La figura representa la estructura organizativa de una brigada de cocina profesional. La información se distribuye desde los niveles de mayor responsabilidad y coordinación hacia áreas especializadas y funciones operativas, mostrando mediante conexiones la relación de autoridad y apoyo entre los integrantes. La composición permite comprender cómo se distribuyen las responsabilidades y cómo se articulan diferentes especialidades para facilitar el funcionamiento coordinado de la cocina.")
         figcaption Nota. Adaptado del Manual de Cocina Fría (s.f.) y Ramos Velasco (2023).
 
     separador

@@ -7,7 +7,7 @@
         span 5
       h1 Tema 5
 
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5.z-2
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.z-2
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require_src('@/assets/curso/tema5/1.png')})`}"
       )
@@ -50,7 +50,7 @@
     img(data-aos="fade-up")(src="@/assets/curso/tema5/4.png", alt="")   
     .row.justify-content-center.z-2
       .col-lg-10.p-4(data-aos="fade-down")
-        div.banner-text.shadow
+        div.banner-text.shadow.mb-3
           p.mb-0 La decoración culinaria complementa el emplatado al incorporar elementos que aportan contraste, volumen, color, textura y dinamismo a la presentación, procurando siempre que sean comestibles y mantengan relación con los sabores de la preparación.  
 
     p.mb-4.mb-lg-5.z-2 Su aplicación requiere precisión, creatividad y moderación para evitar composiciones recargadas y conservar el protagonismo del alimento principal. Para lograr este propósito, pueden emplearse diferentes tipos de decoración, entre los que se destacan las realizadas con salsas, hierbas, vegetales tallados y elementos crujientes. 

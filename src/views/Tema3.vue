@@ -170,7 +170,7 @@
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.3 Preparación de aderezos y vinagretas saludables 
 
-    .bg-img.bg-img--terciario.rounded-4.p-4.overflow-hidden.mb-4.mb-lg-0
+    .bg-img.bg-img--terciario.rounded-4.p-4.overflow-hidden.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-1.d-none.d-lg-block.px-1
           figure

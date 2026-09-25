@@ -13,7 +13,7 @@
     
     .row.justify-content-center.z-2
       .col-lg-10.p-4(data-aos="fade-down")
-        div.banner-text.shadow
+        div.banner-text.shadow.mb-3
           p.mb-0 La cocina fría, conocida en el argot profesional como la partida del Garde Manger, es mucho más que un área de preparación de alimentos que no requieren calor. Es una disciplina fundamental en la gastronomía que exige un alto grado de precisión técnica, una sensibilidad estética refinada y un profundo conocimiento de la inocuidad alimentaria.   
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
