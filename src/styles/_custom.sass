@@ -90,6 +90,12 @@ figcaption, table caption
   background-position: center
   background-repeat: no-repeat
 
+.bg-carousel
+  background: url('../assets/curso/common/bg-carousel.png')
+  background-size: cover
+  background-position: center
+  background-repeat: no-repeat
+
 .fullwidth-bg
   display: none
   @media screen and (min-width: 768px)
@@ -224,3 +230,15 @@ figcaption, table caption
     @media screen and (min-width: $bp-min-lg)
       transform: translateY(calc( 100% - 3.85rem ))
       font-size: 1em
+
+.slyder-a
+  background-color: $white
+  padding: 20px
+  border-radius: 20px
+  .slyder-a__btn--atrs, .slyder-a__btn--sigt
+    background-color: $color-acento-botones
+    border-color: $color-acento-botones
+    background-image: url('../assets/curso/common/white-arrow.svg')
+  .slyder-a__bullets__item
+    background-color: $color-terciario
+    border-color: $color-terciario
