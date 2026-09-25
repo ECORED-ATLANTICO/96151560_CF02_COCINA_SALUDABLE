@@ -1,25 +1,4 @@
 @use 'variables' as *
-.banner-principal-decorativo
-  &-1
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 68%
-    left: -10%
-    width: 20%
-  &-2
-    animation: float1 2.5s ease-in-out infinite alternate
-    position: absolute
-    top: 30%
-    right: 10%
-    width: 20%
-
-
-@keyframes float1
-  0%
-    transform: translateY(20px)
-
-  100%
-    transform: translateY(0px)
 
 ///////////CUSTOM BANNER PRINCIPAL E INTERNO/////////////
 .banner-principal .tarjeta
@@ -50,8 +29,8 @@ figcaption, table caption
   @media screen and (max-width: $bp-max-xs)
     background-image: url("../assets/curso/portada/fondo-banner-principal-xs.png") !important
 
-.text-end 
-    text-align: left !important
+.barra-avance__boton--regresar span
+  color: $white !important
 
 /**************************************************************/
 /***CUSTOM STYLES***/
@@ -96,6 +75,12 @@ figcaption, table caption
   background-position: center
   background-repeat: no-repeat
 
+.bg-cards
+  background: url('../assets/curso/common/bg-cards.png')
+  background-size: cover
+  background-position: center top
+  background-repeat: no-repeat
+
 .fullwidth-bg
   display: none
   @media screen and (min-width: 768px)
@@ -119,6 +104,10 @@ figcaption, table caption
 
 .imgw-100
   width: 100px
+  margin: 0 auto
+
+.imgw-105
+  width: 105px
   margin: 0 auto
 
 .imgw-281
@@ -222,12 +211,10 @@ figcaption, table caption
     padding: 1.5rem
     bottom: 0    
     transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
-    transform: translateY(calc( 100% - 3.85rem ))
+    transform: translateY(calc( 100% - 3rem ))
     background-color: $color-secundario
-    font-size: 1em
+    font-size: .70em
     @media screen and (min-width: $bp-min-sm)
-      transform: translateY(calc( 100% - 3.4rem ))
-    @media screen and (min-width: $bp-min-lg)
       transform: translateY(calc( 100% - 3.85rem ))
       font-size: 1em
 
@@ -242,3 +229,28 @@ figcaption, table caption
   .slyder-a__bullets__item
     background-color: $color-terciario
     border-color: $color-terciario
+
+.titulo-con-imagen
+  display: flex
+  align-items: center
+  position: relative
+.titulo-con-imagen__fondo
+  background: #E7D7FF
+  background: linear-gradient(90deg, rgba(231, 215, 255, 0.98) 0%, rgba(249, 245, 255, 1) 100%)
+  border-radius: 20px
+  padding: 8px 20px
+  display: inline-flex
+  align-items: center
+.titulo-con-imagen__imagen
+  position: absolute
+  left: -20px
+  width: 70px
+  @media screen and (mim-width: $bp-max-sm)
+    top: -10px
+
+.titulo-con-imagen__texto
+  margin: 0
+  padding-left: 50px
+
+.accesibilidad
+  z-index: 3
