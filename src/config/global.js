@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Cocina fría: técnicas, preparaciones y emplatado profesional',
     Description:
-      '​​​Este componente formativo desarrolla las competencias para elaborar preparaciones de cocina fría de alta calidad. Aborda el dominio de cortes profesionales, la clasificación y preparación de ensaladas, aderezos, vinagretas y salsas frías. Profundiza en técnicas especializadas como la acidificación (ceviches, escabeches), la elaboración de patés, terrinas, galantinas, mousses, sándwiches, canapés y bebidas frías. Finaliza con los principios del emplatado profesional y la decoración de platos según las necesidades del cliente',
+      '​Este componente formativo desarrolla las competencias para elaborar preparaciones de cocina fría de alta calidad. Aborda el dominio de cortes profesionales, la clasificación y preparación de ensaladas, aderezos, vinagretas y salsas frías. Profundiza en técnicas especializadas como la acidificación (ceviches, escabeches), la elaboración de patés, terrinas, galantinas, <em>mousses</em>, sándwiches, canapés y bebidas frías. Finaliza con los principios del emplatado profesional y la decoración de platos según las necesidades del cliente',
     imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
   },
@@ -53,7 +53,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Dominio de cortes en verduras y frutas ',
+        titulo: 'Dominio de cortes en verduras y frutas',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -96,12 +96,12 @@ export default {
           },
           {
             numero: '3.3',
-            titulo: 'Preparación de aderezos y vinagretas saludables.',
+            titulo: 'Preparación de aderezos y vinagretas saludables',
             hash: 't_3_3',
           },
           {
             numero: '3.4',
-            titulo: 'Ensaladas simples y compuestas: ejemplos y elaboración.',
+            titulo: 'Ensaladas simples y compuestas: ejemplos y elaboración',
             hash: 't_3_4',
           },
         ],
@@ -109,7 +109,7 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Preparaciones especializadas de cocina fría. ',
+        titulo: 'Preparaciones especializadas de cocina fría',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -164,7 +164,7 @@ export default {
           {
             numero: '5.3',
             titulo:
-              'Adecuación del emplatado al tipo de servicio (buffet, a la carta, <em>delivery</em>) y a las necesidades del cliente',
+              'Adecuación del emplatado al tipo de servicio (<em>buffet</em>, a la carta, <em>delivery</em>) y a las necesidades del cliente',
             hash: 't_5_3',
           },
         ],
@@ -196,7 +196,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/96151560_CF02_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -222,7 +222,7 @@ export default {
         'Corte en dados muy pequeños, de aproximadamente 2 a 3 mm por lado. se obtiene picando finamente la juliana.',
     },
     {
-      termino: '<em>Canapé</em>',
+      termino: 'Canapé',
       significado:
         'Pequeña preparación salada que se sirve como aperitivo, consistente en una base (pan, masa, vegetal) cubierta con un <em>topping</em> decorativo.',
     },
@@ -254,17 +254,17 @@ export default {
     {
       termino: '<em>Farce</em>',
       significado:
-        'Mezcla de carnes magras, grasas, huevos, crema y especias, procesada hasta obtener una pasta fina, utilizada como relleno en <em>patés</em>, terrinas y galantinas.',
+        'Mezcla de carnes magras, grasas, huevos, crema y especias, procesada hasta obtener una pasta fina, utilizada como relleno en patés, terrinas y galantinas.',
     },
     {
       termino: '<em>Garde Manger</em>',
       significado:
-        'Término francés que designa tanto el área de la cocina fría como al chef especializado en ella. literalmente significa "guardar para comer".',
+        'Término francés que designa tanto el área de la cocina fría como al chef especializado en ella. Literalmente significa "guardar para comer".',
     },
     {
       termino: 'Galantina',
       significado:
-        'Preparación donde una pieza de ave o pescado se deshuesa, se rellena con una <em>farce</em>, se enrolla y se cocina. se sirve fría.',
+        'Preparación donde una pieza de ave o pescado se deshuesa, se rellena con una <em>farce</em>, se enrolla y se cocina. Se sirve fría.',
     },
     {
       termino: 'Juliana',
@@ -279,7 +279,7 @@ export default {
     {
       termino: '<em>Mise en Place</em>',
       significado:
-        'Término francés que significa "poner en su lugar". se refiere a la organización y preparación previa de todos los ingredientes y utensils necesarios para el servicio.',
+        'Término francés que significa "poner en su lugar". Se refiere a la organización y preparación previa de todos los ingredientes y utensilios necesarios para el servicio.',
     },
     {
       termino: '<em>Mousse</em>',
@@ -292,14 +292,14 @@ export default {
         'Tipo de <em>farce</em> de textura muy fina y aireada, elaborada con partes iguales de proteína cruda y crema de leche.',
     },
     {
-      termino: '<em>Paté</em>',
+      termino: 'Paté',
       significado:
-        'Preparación de cocina fría que consiste en una <em>farce</em> de carnes (a menudo hígado) envuelta en una masa y horneada. se sirve frío.',
+        'Preparación de cocina fría que consiste en una <em>farce</em> de carnes (a menudo hígado) envuelta en una masa y horneada. Se sirve frío.',
     },
     {
       termino: 'Terrina',
       significado:
-        'Preparación similar al <em>paté</em>, pero cocida a baño maría en un molde (terrina) sin masa. se sirve fría en rebanadas.',
+        'Preparación similar al paté, pero cocida a baño maría en un molde (terrina) sin masa. Se sirve fría en rebanadas.',
     },
     {
       termino: '<em>Tourné</em>',
@@ -310,51 +310,51 @@ export default {
   referencias: [
     {
       referencia:
-        'Asociación de Chefs del Ecuador. (2018). <em>Guía de técnicas culinarias</em>.',
+        'Asociación de Chefs del Ecuador. (2018). Guía de técnicas culinarias.',
       link: 'https://www.nestle.com.ec/sites/g/files/pydnoa396/files/2019-07/guia%20de%20tecnicas%20culinarias%20digital%20%28002%29.pdf',
     },
     {
-      referencia: 'Cadena, J., & Francisco, E. (2024). <em>Cocina Fría</em>.',
+      referencia: 'Cadena, J., & Francisco, E. (2024). Cocina Fría.',
       link: 'https://intesud-repositoriodigital.edu.ec/jspui/handle/INTESUD/117',
     },
     {
       referencia:
-        'Codex Alimentarius Commission. (2023). <em>Principios generales de higiene de los alimentos (CXC 1-1969)</em>. Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) y Organización Mundial de la Salud (OMS).',
+        'Codex Alimentarius Commission. (2023). Principios generales de higiene de los alimentos (CXC 1-1969). Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) y Organización Mundial de la Salud (OMS).',
       link: 'https://www.fao.org/fao-who-codexalimentarius',
     },
     {
       referencia:
-        'Congreso de la República de Colombia. (1979, 24 de enero). Ley 9 de 1979, por la cual se dictan Medidas Sanitarias. <em>Diario Oficial</em> No. 35308.',
+        'Congreso de la República de Colombia. (1979, 24 de enero). Ley 9 de 1979, por la cual se dictan Medidas Sanitarias. Diario Oficial No. 35308.',
       link: '',
     },
     {
       referencia:
-        'del Valle Araujo, A. (2012). <em>Preparación de Alimentos III</em>. Red Tercer Milenio.',
+        'del Valle Araujo, A. (2012). Preparación de Alimentos III. Red Tercer Milenio.',
       link: '',
     },
     {
       referencia:
-        'Gisslen, W. (2017). <em>Professional Cooking</em> (9th ed.). John Wiley & Sons.',
+        'Gisslen, W. (2017). Professional Cooking (9th ed.). John Wiley & Sons.',
       link: '',
     },
     {
       referencia:
-        'Manual de Cocina Fría - Carrera de Profesional Gastronómico. (s.f.). [Documento interno, Instituto Argentino de Gastronomía].',
+        'Manual de Cocina Fría - Carrera de Profesional Gastronómico. (s.f.). Documento interno, Instituto Argentino de Gastronomía.',
       link: '',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (1997, 10 de diciembre). Decreto 3075 de 1997, por el cual se reglamenta parcialmente la Ley 09 de 1979. <em>Diario Oficial</em> No. 43246.',
+        'Ministerio de Salud y Protección Social. (1997, 10 de diciembre). Decreto 3075 de 1997, por el cual se reglamenta parcialmente la Ley 09 de 1979. Diario Oficial No. 43246.',
       link: '',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (2013, 22 de julio). Resolución 2674 de 2013, por la cual se reglamenta el artículo 14 de la Ley 09 de 1979. <em>Diario Oficial</em> No. 48877.',
+        'Ministerio de Salud y Protección Social. (2013, 22 de julio). Resolución 2674 de 2013, por la cual se reglamenta el artículo 14 de la Ley 09 de 1979. Diario Oficial No. 48877.',
       link: '',
     },
     {
       referencia:
-        'Velasco, J. C. R. (2024, 18 de julio). <em>Técnicas básicas de cocina</em>. Sello Editorial Unicomfacauca.',
+        'Velasco, J. C. R. (2024, 18 de julio). Técnicas básicas de cocina. Sello Editorial Unicomfacauca.',
       link: 'https://selloeditorial.unicomfacauca.edu.co/Publicaciones/catalog/book/19',
     },
   ],
@@ -379,18 +379,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Yina Paola Castro Zarate ',
+          cargo: 'Experta temática',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
-        },
-        {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Jair Enrique Coll Gallardo ',
+          cargo: 'Evaluador instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
@@ -399,13 +394,13 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
+          nombre: 'Carmen Alicia Martínez Torres',
+          cargo: 'Diseñadora de contenidos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador <i>full stack</i>',
+          nombre: 'Fabio Fonseca Arguelles',
+          cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {

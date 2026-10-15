@@ -41,7 +41,7 @@
             td(colspan="3") Corte en láminas finas, luego en tiras finas.
             td(colspan="3") Ensaladas verdes, guarniciones de sándwiches, salteados.
           tr
-            td(colspan="2") Brunoise
+            td(colspan="2") #[em Brunoise]
             td(colspan="2") 2-3 mm x 2-3 mm x 2-3 mm
             td(colspan="3") Picar finamente la juliana.
             td(colspan="3") Salsas frías, rellenos de tartaletas, guarniciones de precisión.
@@ -116,13 +116,13 @@
           div(titulo="<em>Tourné</em>")
             .me-lg-5
               p Corte decorativo en forma de barril o de siete caras que se realiza con el cuchillo puntilla. Requiere práctica y destreza. 
-              p #[strong Aplicación en cocina fría]: guarnición de lujo para buffets, vegetales en escabeche, presentaciones de alta cocina. 
+              p #[strong Aplicación en cocina fría]: guarnición de lujo para #[em buffets], vegetales en escabeche, presentaciones de alta cocina. 
               p #[strong Herramienta principal]: cuchillo puntilla. 
           div(titulo="<em>Concassé</em>")
             .me-lg-5
-              p Técnica específica para tomate: escaldar, pelar, despepitar y cortar la pulpa en cubos pequeños (brunoise). 
+              p Técnica específica para tomate: escaldar, pelar, despepitar y cortar la pulpa en cubos pequeños (#[em brunoise]). 
               p #[strong Aplicación en cocina fría]: base para salsas frías (salsa de tomate fría), guarnición para ensaladas, ceviches, tartaletas. 
-              p #[strong Herramienta principal]: Cuchillo chef, olla para escaldar, bowl con hielo. 
+              p #[strong Herramienta principal]: cuchillo chef, olla para escaldar, #[em bowl] con hielo. 
           div(titulo="Chips")
             .me-lg-5
               p Láminas muy finas de vegetales (papa, betabel, zanahoria, camote, plátano) obtenidas con mandolina, que luego se hornean, deshidratan o fríen. 
@@ -131,7 +131,7 @@
           div(titulo="Paisana")
             .me-lg-5
               p Corte rectangular de aproximadamente 1 cm x 1 cm x 0.5 cm (largo x ancho x grosor). 
-              p #[strong Aplicación en cocina fría]: Guarniciones para sopas frías, ensaladas rústicas, potajes. 
+              p #[strong Aplicación en cocina fría]: guarniciones para sopas frías, ensaladas rústicas, potajes. 
               p #[strong Herramienta principal]: cuchillo chef. 
 
     Separador
@@ -164,15 +164,15 @@
             td #[em Brunoise] (2-3 mm)
             td(colspan="2") Los ingredientes de cobertura (vegetales, huevo, atún) deben ser muy pequeños y uniformes para que cada pequeño bocado sea perfecto y estético. 
           tr
-            td Ensalada #[em Waldorf]
+            td Ensalada Waldorf
             td Macedonia o Juliana (manzana y apio)
             td(colspan="2") Los cortes en tiras o dados mantienen la textura crujiente de los ingredientes. La juliana es más elegante. 
           tr
-            td #[em Sándwich] club
+            td Sándwich club
             td Rodajas finas o Juliana
             td(colspan="2") El pepino en rodajas finísimas y la lechuga en juliana facilitan el armado y la mordida del sándwich, evitando que los ingredientes se salgan. 
           tr
-            td Terrina o #[em Paté]
+            td Terrina o paté
             td #[em Brunoise] (para ingredientes añadidos como pistachos o pimientos)
             td(colspan="2") Los ingredientes añadidos deben ser pequeños para no romper la textura homogénea de la #[em farce] y distribuirse uniformemente. 
           tr
@@ -185,11 +185,11 @@
         .bg-audio.rounded-4.px-4.py-4.py-lg-0
           .row.align-items-center.justify-content-center
             .col-sm-8.col-lg-8
-              p A continuación, se invita a ir al siguiente podcast: 
+              p A continuación, lo invitamos a consultar el siguiente pódcast:
               TarjetaAudio.mb-3.color-terciario(
                 texto="Técnicas de corte profesional precisión estética y seguridad en la cocina fría"
                 tiempo
-                :audio="require_src('@/assets/curso/podcast/podcast1.mp3')"
+                :audio="require_src('@/assets/curso/podcast/96151560_CF02_Podcast_02.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false")
             .col-8.col-sm-4
               figure

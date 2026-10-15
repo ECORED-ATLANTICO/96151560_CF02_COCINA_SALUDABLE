@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Tema 5
+      h1 Emplatado y Decoración Profesional 
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.z-2
       .bloque-texto-g__img(
@@ -37,11 +37,11 @@
           .tarjeta.p-4.bg-contenido-a5.py-5(titulo="Balance (o armonía)")
             p.mb-0 Se refiere a la distribución de los componentes del plato (proteína, guarnición, salsa, aderezo) de manera equilibrada y ordenada, sin amontonarlos. Un plato bien balanceado invita al comensal a explorar cada elemento. Se puede lograr a través de la geometría (un montículo central con elementos alrededor), la asimetría (un elemento principal descentrado) o la disposición lineal. 
           .tarjeta.p-4.bg-contenido-a5.py-5(titulo="Color")
-            p.mb-0 Se refiere a la distribución de los componentes del plato (proteína, guarnición, salsa, aderezo) de manera equilibrada y ordenada, sin amontonarlos. Un plato bien balanceado invita al comensal a explorar cada elemento. Se puede lograr a través de la geometría (un montículo central con elementos alrededor), la asimetría (un elemento principal descentrado) o la disposición lineal. estableció sus funciones, que perduran hasta hoy.
+            p.mb-0 Un plato monocromático es visualmente pobre. Use vegetales de diferentes colores (rojo del tomate, verde de la lechuga, naranja de la zanahoria, morado de la berenjena) para crear contraste y atractivo visual. Los colores vivos estimulan el apetito. 
           .tarjeta.p-4.bg-contenido-a5.py-5(titulo="Textura")
             p.mb-0 La combinación de diferentes texturas en un solo plato crea una experiencia sensorial más rica y placentera. Combine una base suave o cremosa (un puré, una salsa) con un elemento crujiente (chips, frutos secos, semillas, picatostes), una proteína tierna y jugosa, y un vegetal firme y fresco. 
           .tarjeta.p-4.bg-contenido-a5.py-5(titulo="Altura")
-            p.mb-0 Integra técnicas tradicionales con tendencias de alimentación saludable, productos frescos, preparaUn plato plano y esparcido es poco atractivo. Construya el plato en capas o utilizando montículos para darle volumen y dinamismo. Los aros de emplatar son una herramienta excelente para crear torres o cilindros. Los elementos altos capturan la atención. 
+            p.mb-0 Un plato plano y esparcido es poco atractivo. Construya el plato en capas o utilizando montículos para darle volumen y dinamismo. Los aros de emplatar son una herramienta excelente para crear torres o cilindros. Los elementos altos capturan la atención. 
 
     separador
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -105,7 +105,7 @@
 
     separador
     #t_5_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 5.3 Adecuación del emplatado al tipo de servicio (buffet, a la carta, delivery) y a las necesidades del cliente. 
+      h2 5.3 Adecuación del emplatado al tipo de servicio (#[em buffet], a la carta, #[em delivery]) y a las necesidades del cliente
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-6.col-lg-3
@@ -116,7 +116,7 @@
         .bg-img.rounded-4.p-4.py-3
           p.mb-0 Asimismo, resulta fundamental contemplar requerimientos específicos del consumidor.  El emplatado final no es una camisa de fuerza. El chef #[em Garde Manger] debe saber adaptar sus presentaciones a diferentes contextos operativos y a las necesidades específicas de los comensales. 
 
-    p.mb-4 A continuación, se presentan las principales consideraciones 
+    p.mb-4 A continuación, se presentan las principales consideraciones:
 
     .row.justify-content-center.z-2
       .col-sm-9.col-lg-6.col-xl-3.mb-4
@@ -133,7 +133,7 @@
             figure
               img(src="@/assets/curso/tema5/11.png", alt="alt")
           .crd_hover_txt--body.p-4.py-3
-            h4.mb-3 Buffet 
+            h4.mb-3 #[em Buffet] 
             p.mb-0 Enfoque en la producción en masa y la presentación en grandes fuentes. El emplatado se realiza en bandejas y fuentes grandes, buscando la abundancia, el color y la facilidad para que el comensal se sirva. Las decoraciones son más grandes y vistosas (esculturas de vegetales, tallados). 
       .col-sm-9.col-lg-6.col-xl-3.mb-4
         .crd_hover_txt.tarjeta.custom-2

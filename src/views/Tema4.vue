@@ -14,7 +14,7 @@
       .col-lg-9
         .bg-img.bg-img--terciario.p-4.rounded-4.mb-3
           p.mb-0 Las preparaciones especializadas de cocina fría reúnen técnicas que permiten transformar y combinar ingredientes para obtener productos con características particulares de sabor, textura, conservación y presentación. Su elaboración exige precisión en los procedimientos, adecuada manipulación de las materias primas, control de temperatura e inocuidad, además de criterios estéticos que contribuyan a lograr preparaciones equilibradas, atractivas y acordes con los principios de la cocina saludable.
-        p.mb-0 Más allá de las ensaladas, la cocina fría alberga un mundo de preparaciones que van desde el uso del ácido como agente "cocción" hasta la elaboración de patés, terrinas, mousses y canapés. Estas preparaciones son el sello distintivo de un #[em Garde Manger] experto. 
+        p.mb-0 Más allá de las ensaladas, la cocina fría alberga un mundo de preparaciones que van desde el uso del ácido como agente "cocción" hasta la elaboración de patés, terrinas, <em>mousses</em> y canapés. Estas preparaciones son el sello distintivo de un #[em Garde Manger] experto. 
     
     separador
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -36,7 +36,7 @@
           .tarjeta.p-4.bg-contenido-a5.py-5(titulo="Acidificación")
             p.mb-0 Incorporar jugo de limón al pescado cortado y controlar cuidadosamente el tiempo de contacto (entre 5 y 10 minutos), para obtener la textura y acidez deseadas. La acidificación modifica sensorialmente el pescado, pero no sustituye las medidas de inocuidad ni una cocción térmica. 
           .tarjeta.p-4.bg-contenido-a5.py-5(titulo="Sabor y presentación")
-            p.mb-0 La expansión de la refrigeración y congelación transformó la conservación y producción de alimentos. La cocina fría amplió su repertorio e incorporó mayores controles de temperatura, higiene, almacenamiento e inocuidad.
+            p.mb-0 Una vez listo, escurrir la mitad del jugo. Mezclar con cebolla morada en juliana, cilantro fresco picado, ají limo o rocoto. Sirvalo acompañado de camote sancochado, maíz tostado (cancha) o choclo. 
       .col-sm-6.col-lg-3.d-none.d-xl-block
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema4/3.png", alt="" data-aos="zoom-in-down")
@@ -79,7 +79,7 @@
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.2	Patés, terrinas y galantinas: la #[em farce] y la #[em mousseline] 
 
-    p.mb-4.z-2 Estas preparaciones representan la haute cuisine de la cocina fría. Son elaboraciones que requieren técnica, paciencia, precisión y una presentación impecable. Son el patrimonio del #[em Garde Manger] (Manual de Cocina Fría, s.f.; del Valle Araujo, 2012). A continuación, se muestran sus características más importantes 
+    p.mb-4.z-2 Estas preparaciones representan la #[em haute cuisine] de la cocina fría. Son elaboraciones que requieren técnica, paciencia, precisión y una presentación impecable. Son el patrimonio del #[em Garde Manger] (Manual de Cocina Fría, s.f.; del Valle Araujo, 2012). A continuación, se muestran sus características más importantes:
 
     .bg-carousel.p-4.z-2.rounded-4.mb-4
       SlyderA(tipo="b")
@@ -95,7 +95,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-7.mb-4.mb-lg-0
               h5 Terrina
-              p.mb-0 Es conceptualmente similar al paté, pero se cocina sin pasta en un molde de barro, porcelana o acero inoxidable llamado "terrina". La terrina con farce se cocina suavemente al baño maría, se prensa con un peso y se sirve fría en rebanadas. Su nombre proviene del material del molde original (terracota). 
+              p.mb-0 Es conceptualmente similar al paté, pero se cocina sin pasta en un molde de barro, porcelana o acero inoxidable llamado "terrina". La terrina con #[em farce] se cocina suavemente al baño maría, se prensa con un peso y se sirve fría en rebanadas. Su nombre proviene del material del molde original (terracota). 
             .col-lg-5
               figure
                 img(src='@/assets/curso/tema4/5.png', alt='')
@@ -103,7 +103,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-7.mb-4.mb-lg-0
               h5 Galantina
-              p.mb-0 Es una preparación donde una pieza de ave (pollo, pato, pavo) o pescado se deshuesa por completo, se rellena con una farce y otros ingredientes (pistachos, jamón, trufas, frutas cristalizadas), se enrolla y se cocina (generalmente se pocha). Se sirve fría, a menudo decorada con vegetales en gelatina (#[em aspic]). El término proviene del francés antiguo #[em "géline"] (gallina).  
+              p.mb-0 Es una preparación donde una pieza de ave (pollo, pato, pavo) o pescado se deshuesa por completo, se rellena con una #[em farce] y otros ingredientes (pistachos, jamón, trufas, frutas cristalizadas), se enrolla y se cocina (generalmente se pocha). Se sirve fría, a menudo decorada con vegetales en gelatina (#[em aspic]). El término proviene del francés antiguo #[em "géline"] (gallina).  
             .col-lg-5
               figure
                 img(src='@/assets/curso/tema4/6.png', alt='')
@@ -111,7 +111,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-7.mb-4.mb-lg-0
               h5 #[em La farce] (o relleno) 
-              p.mb-0 Es el corazón de estas preparaciones. Es una mezcla de proteínas (carne magra, grasa, hígado), huevos, crema de leche y especias, procesada hasta obtener una textura fina y homogénea 
+              p.mb-0 Es el corazón de estas preparaciones. Es una mezcla de proteínas (carne magra, grasa, hígado), huevos, crema de leche y especias, procesada hasta obtener una textura fina y homogénea.
             .col-lg-5
               figure
                 img(src='@/assets/curso/tema4/7.png', alt='')
@@ -119,7 +119,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-7.mb-4.mb-lg-0
               h5 #[em La mousseline] 
-              p.mb-0 Es un tipo de farce de textura muy fina y aireada, lograda al procesar la carne con crema de leche y claras de huevo. La proporción ideal para una #[em mousseline] es de partes iguales de proteína (carne, pescado o ave) y crema de leche (Manual de Cocina Fría, s.f.). 
+              p.mb-0 Es un tipo de #[em farce] de textura muy fina y aireada, lograda al procesar la carne con crema de leche y claras de huevo. La proporción ideal para una #[em mousseline] es de partes iguales de proteína (carne, pescado o ave) y crema de leche (Manual de Cocina Fría, s.f.). 
             .col-lg-5
               figure
                 img(src='@/assets/curso/tema4/8.png', alt='')
@@ -128,13 +128,13 @@
       p.mb-0 Cuidados en la preparación de una #[em mousseline]:
         ul.checklist.ms-3
           li
-            span.ps-2 La carne debe estar bien fría (no superar los 14°C) para evitar que se corte la emulsión.
+            span.ps-2 La carne debe estar bien fría (no superar los 14 °C) para evitar que se corte la emulsión.
           li
             span.ps-2 Procesar la carne fría con los condimentos. Luego, tamizar para eliminar nervios y obtener una textura fina.
           li
             span.ps-2 Incorporar la crema de leche bien fría en forma de hilo, procesando solo hasta integrar. No sobreprocesar o se cortará la mezcla.
           li
-            span.ps-2 La cocción de la mousseline debe ser suave (baño maría) y la temperatura interna no debe superar los 85°C. Temperaturas corazón: pollo 66°C, pescado 62°C, cerdo 74°C.
+            span.ps-2 La cocción de la #[em mousseline] debe ser suave (baño maría) y la temperatura interna no debe superar los 85 °C. Temperaturas corazón: pollo 66 °C, pescado 62 °C, cerdo 74 °C.
 
     separador
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -145,7 +145,7 @@
         :style="{'background-image': `url(${require_src('@/assets/curso/tema4/9.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El término #[em "mousse"] significa "espuma" en francés. En gastronomía, una mousse es una preparación ligera y aireada, que puede ser dulce o salada, fría o caliente. Su textura esponjosa se logra incorporando un elemento aireado (claras de huevo a punto de nieve, crema de leche batida, o una combinación de ambas) a una base saborizada. A menudo se añade gelatina (grenetina) para darle firmeza (del Valle Araujo, 2012; Manual de Cocina Fría, s.f.). 
+        p.mb-0 El término #[em "mousse"] significa "espuma" en francés. En gastronomía, una #[em mousse] es una preparación ligera y aireada, que puede ser dulce o salada, fría o caliente. Su textura esponjosa se logra incorporando un elemento aireado (claras de huevo a punto de nieve, crema de leche batida, o una combinación de ambas) a una base saborizada. A menudo se añade gelatina (grenetina) para darle firmeza (del Valle Araujo, 2012; Manual de Cocina Fría, s.f.). 
 
     .titulo-sexto.color-acento-contenido.mb-4.z-2
       h5 Tabla 9.
@@ -154,30 +154,30 @@
       table
         thead
           tr(style="background-color: #FFFEF0")
-            th Factor crítico
-            th(colspan="2") Recomendación técnica 
-            th(colspan="2") Por qué es importante 
+            th Característica 
+            th(colspan="2") #[em Mousse] 
+            th(colspan="2") Muselina (#[em Mousseline]) 
         tbody
           tr
-            td Frescura del pescado 
-            td(colspan="2") Usar pescado de la máxima calidad, con cadena de frío impecable. El pescado debe oler a mar, tener ojos brillantes y carne firme. 
-            td(colspan="2") El ácido no mata todas las bacterias. Si el pescado no es fresco, el ceviche será un riesgo para la salud.
+            td Base 
+            td(colspan="2") Ingredientes cocidos o crudos. 
+            td(colspan="2") Ingredientes crudos (carne, pescado, ave). 
           tr
-            td Tipo de pescado 
-            td(colspan="2") Pescados blancos de carne firme: corvina, robalo, lenguado, mero, pez sierra, atún. 
-            td(colspan="2") Las carnes firmes mantienen su textura durante la acidificación y no se deshacen.
+            td Agente de unión 
+            td(colspan="2") Generalmente gelatina (para #[em mousses] frías). 
+            td(colspan="2") Huevo, claras de huevo, o panada (mezcla de pan y leche / crema). 
           tr
-            td Tiempo de maceración 
-            td(colspan="2") De 5 a 15 minutos, dependiendo del tamaño del corte (cubos de 1-1.5 cm). 
-            td(colspan="2") Un tiempo excesivo sobre cocina el pescado, volviéndolo gomoso y seco. 
+            td Textura 
+            td(colspan="2") Esponjosa, ligera, fundente. 
+            td(colspan="2") Fina, cremosa, similar a una emulsión. 
           tr
-            td Equilibrio de sabores
-            td(colspan="2") El ácido se equilibra con el dulzor de la cebolla morada, el picante del ají, el fresco del cilantro y la cremosidad del maíz o la yuca. 
-            td(colspan="2") Un buen ceviche es una sinfonía de sabores: ácido, dulce, picante, salado y umami. 
+            td Cocción 
+            td(colspan="2") Las #[em mousses] frías no requieren cocción (solo la gelatina). Las calientes se hornean o pochan. 
+            td(colspan="2") Requiere cocción (horneado o pochado). 
           tr
-            td La "Leche de tigre" 
-            td(colspan="2") Es el jugo resultante de la maceración del pescado con limón, cebolla, ají, cilantro y otros ingredientes. Se sirve aparte o como parte del ceviche. 
-            td(colspan="2") Es la esencia del ceviche, rica en sabor y considerada un afrodisíaco. 
+            td Aplicación 
+            td(colspan="2") Postres (#[em mousse] de chocolate, frutilla), entrantes fríos (#[em mousse] de salmón, de espárragos). 
+            td(colspan="2") Relleno de patés, terrinas, galantinas; #[em quenelles]. 
 
     p.mb-4 Preparación de una #[em mousse] fría (estructura básica):
     .row.justify-content-center.align-items-stretch.z-2.mb-4.mb-lg-5
@@ -207,6 +207,8 @@
             img.imgw-100.mb-3(src="@/assets/curso/tema4/14.svg", alt="")
           p.mb-0.text-center #[strong Refrigeración:] verter en moldes y refrigerar por al menos 4 horas hasta que cuaje. 
 
+    p.mb-4.mb-lg-5 A continuación, se presenta un ejemplo por medio del cual se prepara un #[em mousse] de salmón ahumado:
+
     .row.justify-content-center.align-items-center
       .col-lg-9
         AcordionA(tipo="b" clase-tarjeta="tarjeta color-primario")
@@ -215,16 +217,16 @@
               p Procesar el salmón ahumado hasta obtener una mezcla fina y homogénea. Incorporar los ingredientes de sabor y ajustar la sazón, procurando conservar las características propias del pescado y obtener una base adecuada para continuar la preparación. 
           div(titulo="Gelatina")
             .me-lg-5
-              p Hidratar la gelatina según sus características y disolverla correctamente. Incorporarla a la base de salmón de manera gradual y uniforme, evitando la formación de grumos, para favorecer la estabilidad y consistencia del mousse durante la refrigeración. 
+              p Hidratar la gelatina según sus características y disolverla correctamente. Incorporarla a la base de salmón de manera gradual y uniforme, evitando la formación de grumos, para favorecer la estabilidad y consistencia del #[em mousse] durante la refrigeración. 
           div(titulo="Aireado")
             .me-lg-5
-              p Batir la crema de leche fría hasta obtener una textura semimontada, ligera y estable, evitando exceder el batido. Este procedimiento incorpora aire y contribuye a proporcionar al mousse una consistencia suave, cremosa y agradable. 
+              p Batir la crema de leche fría hasta obtener una textura semimontada, ligera y estable, evitando exceder el batido. Este procedimiento incorpora aire y contribuye a proporcionar al #[em mousse] una consistencia suave, cremosa y agradable. 
           div(titulo="Incorporación")
             .me-lg-5
-              p Integrar la crema semimontada con la base de salmón mediante movimientos suaves y envolventes. Realizar el procedimiento gradualmente para conservar el aire incorporado y conseguir una mezcla homogénea, ligera y con la consistencia característica del mousse. 
+              p Integrar la crema semimontada con la base de salmón mediante movimientos suaves y envolventes. Realizar el procedimiento gradualmente para conservar el aire incorporado y conseguir una mezcla homogénea, ligera y con la consistencia característica del #[em mousse]. 
           div(titulo="Emplatado")
             .me-lg-5
-              p Distribuir el mousse en recipientes, moldes o elementos de presentación y refrigerar hasta alcanzar la consistencia adecuada. Al servir, complementar con ingredientes que aporten contraste de color, sabor y textura, procurando una presentación limpia, equilibrada y atractiva. 
+              p Distribuir el #[em mousse] en recipientes, moldes o elementos de presentación y refrigerar hasta alcanzar la consistencia adecuada. Al servir, complementar con ingredientes que aporten contraste de color, sabor y textura, procurando una presentación limpia, equilibrada y atractiva. 
 
       .col-sm-6.col-lg-3.d-none.d-lg-block
         figure
@@ -251,7 +253,7 @@
               img(src="@/assets/curso/tema4/17.png", alt="alt")
           .crd_hover_txt--body.p-4
             h4.mb-2.mb-sm-3 Sándwiches 
-            p.mb-0 El origen del sándwich se atribuye a John Montagu, IV Conde de Sándwich (1718-1792), quien, para no interrumpir sus largas sesiones de juego de cartas, pidió que le sirvieran la carne entre dos rebanadas de pan. Hoy existen innumerables versiones: fríos (club sandwich, vegetariano), calientes a la plancha (croque-monsieur, hamburguesas) y abiertos (tostadas, #[em bruschetta]). 
+            p.mb-0 El origen del sándwich se atribuye a John Montagu, IV Conde de Sándwich (1718-1792), quien, para no interrumpir sus largas sesiones de juego de cartas, pidió que le sirvieran la carne entre dos rebanadas de pan. Hoy existen innumerables versiones: fríos (club sándwich, vegetariano), calientes a la plancha (#[em croque-monsieur], hamburguesas) y abiertos (tostadas, #[em bruschetta]). 
       .col-sm-10.col-lg-9.col-xl-6.mb-4
         .crd_hover_txt(data-aos="flip-left").tarjeta.custom-1
           .crd_hover_txt--img
@@ -307,7 +309,7 @@
     #t_4_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.5	Bebidas frías: jugos, granizados, #[em smoothies] y malteadas saludables 
 
-    p La coctelería sin alcohol (mocktails) y las bebidas de frutas son un complemento esencial de la cocina fría. La clave está en usar frutas frescas, endulzantes naturales y técnicas que preserven los nutrientes (del Valle Araujo, 2012; SENA, 2026). 
+    p La coctelería sin alcohol (#[em mocktails]) y las bebidas de frutas son un complemento esencial de la cocina fría. La clave está en usar frutas frescas, endulzantes naturales y técnicas que preserven los nutrientes (del Valle Araujo, 2012; SENA, 2026). 
     p.mb-4 A continuación, se muestran los tipos de bebidas frías:  
 
     .row.justify-content-center.mb-2
@@ -319,8 +321,8 @@
           .crd_hover_txt--body.p-4.pt-3
             h4.mb-2.mb-sm-3 Jugos naturales 
             p.mb-1 Bebida obtenida al licuar frutas y/o verduras con agua. Se puede colar o no. 
-            p.mb-1 #[strong Tenica]: licuar y, opcionalmente, colar para eliminar la fibra (aunque es mejor conservarla). 
-            p.mb-0 #[strong Ejemplo]: Jugo verde: espinaca, apio, pepino, manzana verde, limón y jengibre. 
+            p.mb-1 #[strong Técnica]: licuar y, opcionalmente, colar para eliminar la fibra (aunque es mejor conservarla). 
+            p.mb-0 #[strong Ejemplo]: jugo verde: espinaca, apio, pepino, manzana verde, limón y jengibre. 
       .col-sm-8.col-lg-6.col-xl-4.mb-4
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
@@ -329,7 +331,7 @@
           .crd_hover_txt--body.p-4.pt-3
             h4.mb-2.mb-sm-3 Granizados o raspados 
             p.mb-1 Preparación semisólida de textura arenosa, hecha a base de jugo de fruta, agua y un endulzante. 
-            p.mb-1 #[strong Tenica]: licuar frutas congeladas con un poco de agua o jugo natural. Evitar los azúcares refinados. 
+            p.mb-1 #[strong Técnica]: licuar frutas congeladas con un poco de agua o jugo natural. Evitar los azúcares refinados. 
             p.mb-0 #[strong Ejemplo]: granizado de frutos rojos con #[em stevia]. 
       .col-sm-8.col-lg-6.col-xl-4.mb-4
         .crd_hover_txt(data-aos="flip-left").tarjeta
@@ -339,8 +341,8 @@
           .crd_hover_txt--body.p-4.pt-3
             h4.mb-2.mb-sm-3 #[em Smoothies] o malteadas saludables 
             p.mb-1 Bebida densa, cremosa y nutritiva, hecha en licuadora de alta velocidad con frutas, verduras, lácteos o leches vegetales. No se cuela. 
-            p.mb-1 #[strong Tenica]: licuar todos los ingredientes. La clave es la proporción de líquido y sólido. 
-            p.mb-0 #[strong Ejemplo]: #[em smoothie bowl]: plátano congelado, espinaca, leche de almendras, semillas de chía, cubierto con granola y frutas frescas 
+            p.mb-1 #[strong Técnica]: licuar todos los ingredientes. La clave es la proporción de líquido y sólido. 
+            p.mb-0 #[strong Ejemplo]: #[em smoothie bowl]: plátano congelado, espinaca, leche de almendras, semillas de chía, cubierto con granola y frutas frescas.
 
 
 </template>

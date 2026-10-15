@@ -104,7 +104,7 @@
             td Vinagreta balsámica 
             td(colspan="2") Aceite de oliva, vinagre balsámico (preferiblemente reducido), ajo en polvo. 
             td 3:1 
-            td Ensaladas con tomate, #[em mozzarella] y albahaca (Caprese). 
+            td Ensaladas con tomate, #[em mozzarella] y albahaca (#[em Caprese]). 
           tr
             td Vinagreta de frutos rojos 
             td(colspan="2") Aceite de oliva, vinagre de frambuesa o puré de frutos rojos, miel. 
@@ -192,7 +192,7 @@
         tbody
           tr
             td(colspan="2") Vinagreta de #[em yogur] y hierbas 
-            td(colspan="3") #[em Yogur] natural griego (0% grasa), jugo de limón, eneldo fresco, perejil, ajo en polvo, sal y pimienta. 
+            td(colspan="3") #[em Yogur] natural griego (0 % grasa), jugo de limón, eneldo fresco, perejil, ajo en polvo, sal y pimienta. 
             td(colspan="3") Mezclar todos los ingredientes en un #[em bowl] con un batidor de mano. Ajustar la acidez con el limón y la sal. 
             td(colspan="2") Cremoso, ácido, refrescante. 
           tr
@@ -213,7 +213,7 @@
 
     separador
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 3.4 Ensaladas simples y compuestas: ejemplos y elaboración. 
+      h2 3.4 Ensaladas simples y compuestas: ejemplos y elaboración 
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -263,17 +263,17 @@
             td(colspan="3") Salsa César (mayonesa, anchoas, ajo, queso parmesano, limón). 
             td(colspan="2") Queso parmesano en láminas, crutones de pan. 
           tr
-            td(colspan="2") Ensalada #[em Waldorf]
-            td(colspan="3") Manzana verde (Granny Smith), apio, nueces. 
+            td(colspan="2") Ensalada Waldorf
+            td(colspan="3") Manzana verde #[em (Granny Smith)], apio, nueces. 
             td(colspan="3") Mayonesa (o yogur griego para una versión ligera), jugo de limón. 
             td(colspan="2") Hojas de lechuga como base. 
           tr
-            td(colspan="2") Ensalada #[em Nicoise] 
+            td(colspan="2") Ensalada Nicoise 
             td(colspan="3") Atún en agua (o fresco sellado), anchoas, huevo duro, aceitunas negras, ejotes (habichuelas), papa cocida. 
             td(colspan="3") Vinagreta de mostaza y vino tinto. 
             td(colspan="2") Alcaparras, anchoas fileteadas. 
           tr
-            td(colspan="2") Ensalada #[em Griega] 
+            td(colspan="2") Ensalada Griega 
             td(colspan="3") Queso feta, tomate, pepino, cebolla morada, aceitunas negras (Kalamata). 
             td(colspan="3") Vinagreta de orégano y vinagre de vino tinto. 
             td(colspan="2") Orégano seco espolvoreado. 

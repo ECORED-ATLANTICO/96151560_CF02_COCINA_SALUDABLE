@@ -33,19 +33,19 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema1/3.png", alt="")
       .col-lg-9
-        p El término que designa a esta área y a su chef principal proviene del francés: Garde Manger, que significa literalmente "guardar para comer". Este nombre tiene un origen histórico que se remonta a la edad media. En los castillos y grandes casas señoriales, existía un área de almacenamiento de alimentos, generalmente ubicada en un sótano o zona fresca, llamada garde manger. 
+        p El término que designa a esta área y a su chef principal proviene del francés: #[em Garde Manger], que significa literalmente "guardar para comer". Este nombre tiene un origen histórico que se remonta a la Edad Media. En los castillos y grandes casas señoriales, existía un área de almacenamiento de alimentos, generalmente ubicada en un sótano o zona fresca, llamada #[em garde manger]. 
         .bg-img.rounded-4.p-4
-          p.mb-0 El responsable de esta despensa era el cier de la bouche o mayordomo, quien gestionaba las conservas, los quesos, los embutidos, las carnes saladas y ahumadas, y dispensaba los alimentos según fuera necesario 
+          p.mb-0 El responsable de esta despensa era el #[em cier de la bouche] o mayordomo, quien gestionaba las conservas, los quesos, los embutidos, las carnes saladas y ahumadas, y dispensaba los alimentos según fuera necesario.
     
-    p.mb-4 Con el tiempo, y especialmente gracias a la labor de Auguste Escoffier a finales del siglo XIX y principios del XX, la cocina se reorganizó bajo el "sistema de brigadas". Escoffier estableció una jerarquía clara y funciones específicas para cada estación de trabajo, consolidando la figura del Garde Manger como una partida fundamental, responsable de la mise en place de las materias primas frescas, el despiece y limpieza de pescados y carnes, y la preparación de sopas frías, ensaladas, patés, terrinas y charcutería (Manual de Cocina Fría, s.f.; Jiménez Cadena, 2024).
+    p.mb-4 Con el tiempo, y especialmente gracias a la labor de Auguste Escoffier a finales del siglo XIX y principios del XX, la cocina se reorganizó bajo el "sistema de brigadas". Escoffier estableció una jerarquía clara y funciones específicas para cada estación de trabajo, consolidando la figura del #[em Garde Manger] como una partida fundamental, responsable de la <em>mise en place</em> de las materias primas frescas, el despiece y limpieza de pescados y carnes, y la preparación de sopas frías, ensaladas, patés, terrinas y charcutería (Manual de Cocina Fría, s.f.; Jiménez Cadena, 2024).
 
     .row.justify-content-center.align-items-center
       .col-xl-9
         TabsA.color-secundario.custom-tabs.mb-4.mb-lg-0
-          .tarjeta.p-4.bg-contenido-a5.py-5(titulo="Edad media")
+          .tarjeta.p-4.bg-contenido-a5.py-5(titulo="Edad Media")
             p.mb-0 El #[em Garde Manger] era la despensa donde se almacenaban y conservaban alimentos para el invierno. La salazón, el ahumado y el secado eran técnicas clave. 
           .tarjeta.p-4.bg-contenido-a5.py-5(titulo="Finales del siglo XIX y comienzos del XX ")
-            p.mb-0 #[em Auguste Escoffier]
+            p.mb-0 Auguste Escoffier
             p.mb-0 (1846-1935). Organizó la cocina en brigadas, profesionalizó la figura del #[em Garde Manger] y estableció sus funciones, que perduran hasta hoy.
           .tarjeta.p-4.bg-contenido-a5.py-5(titulo="Mediados y finales del siglo XX")
             p.mb-0 La expansión de la refrigeración y congelación transformó la conservación y producción de alimentos. La cocina fría amplió su repertorio e incorporó mayores controles de temperatura, higiene, almacenamiento e inocuidad.
@@ -59,8 +59,8 @@
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.2	El chef #[em Garde Manger]: funciones y jerarquía en la brigada de cocina
 
-    p Dentro de la brigada de cocina clásica establecida por Escoffier, el chef Garde Manger ocupa una posición de alta relevancia, generalmente considerado el tercero en la jerarquía, después del chef ejecutivo y el sous chef. Sus funciones son amplias y requieren un conocimiento profundo de técnicas tanto de cocina caliente como de pastelería. 
-    p.mb-5 Principales funciones del Garde Manger: 
+    p Dentro de la brigada de cocina clásica establecida por Escoffier, el chef #[em Garde Manger] ocupa una posición de alta relevancia, generalmente considerado el tercero en la jerarquía, después del chef ejecutivo y el #[em sous chef]. Sus funciones son amplias y requieren un conocimiento profundo de técnicas tanto de cocina caliente como de pastelería. 
+    p.mb-5 Principales funciones del #[em Garde Manger]: 
 
     .bg-slider.p-3.px-2.p-md-4.rounded-4.mb-4.mb-lg-5
       .row.justify-content-center.align-items-center
@@ -83,7 +83,7 @@
               .row.justify-content-center.mb-3
                 .col-6.col-sm-4.col-xl-5
                   img(src='@/assets/curso/tema1/8.svg' alt='')
-              p.text-center.mb-0 #[strong Elaboración de patés, terrinas y galantinas]: dominar estas preparaciones es su sello distintivo. Implica la creación de farces, mousselines y la cocción precisa. 
+              p.text-center.mb-0 #[strong Elaboración de patés, terrinas y galantinas]: dominar estas preparaciones es su sello distintivo. Implica la creación de #[em farces], #[em mousselines] y la cocción precisa. 
             .tarjeta.tarjeta--blanca.p-4.pt-5
               .row.justify-content-center.mb-3
                 .col-6.col-sm-4.col-xl-5
@@ -93,7 +93,7 @@
               .row.justify-content-center.mb-3
                 .col-6.col-sm-4.col-xl-5
                   img(src='@/assets/curso/tema1/10.svg' alt='')
-              p.text-center.mb-0 #[strong Canapés y sándwiches]: para cócteles, eventos y servicios de catering, el Garde Manger es el responsable del montaje estético y eficiente de estas preparaciones. 
+              p.text-center.mb-0 #[strong Canapés y sándwiches]: para cócteles, eventos y servicios de #[em catering], el #[em Garde Manger] es el responsable del montaje estético y eficiente de estas preparaciones. 
             .tarjeta.tarjeta--blanca.p-4.pt-5
               .row.justify-content-center.mb-3
                 .col-6.col-sm-4.col-xl-5
@@ -123,9 +123,9 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema1/14.png", alt="" data-aos="zoom-in-down")
       .col-lg-9
-        p La cocina fría es especialmente vulnerable a la contaminación por microorganismos patógenos, ya que muchas de sus preparaciones (ensaladas, ceviches, sándwiches, #[em patés]) no reciben un tratamiento térmico final que elimine las bacterias. Por lo tanto, el cumplimiento de las Buenas Prácticas de Manufactura (BPM) y el control riguroso de la cadena de frío son sus principios de seguridad más importantes.
+        p La cocina fría es especialmente vulnerable a la contaminación por microorganismos patógenos, ya que muchas de sus preparaciones (ensaladas, ceviches, sándwiches, patés) no reciben un tratamiento térmico final que elimine las bacterias. Por lo tanto, el cumplimiento de las Buenas Prácticas de Manufactura (BPM) y el control riguroso de la cadena de frío son sus principios de seguridad más importantes.
         .bg-img.bg-img--terciario.rounded-4.p-4
-          p.mb-0 La cadena de frío es el sistema que garantiza que los alimentos perecederos se mantengan a una temperatura segura y constante (generalmente entre 0°C y 4°C para refrigeración, y -18°C o menos para congelación) desde su recepción hasta su consumo. Su ruptura es una de las principales causas de Enfermedades Transmitidas por Alimentos (ETA).  
+          p.mb-0 La cadena de frío es el sistema que garantiza que los alimentos perecederos se mantengan a una temperatura segura y constante (generalmente entre 0 °C y 4 °C para refrigeración, y -18 °C o menos para congelación) desde su recepción hasta su consumo. Su ruptura es una de las principales causas de Enfermedades Transmitidas por Alimentos (ETA).  
 
     .titulo-sexto.color-acento-contenido.mb-4.z-2
       h5 Tabla 1.
@@ -135,12 +135,12 @@
         thead
           tr(style="background-color: #FFFEF0")
             th Etapa
-            th(colspan="2") Acción del Garde Manger 
+            th(colspan="2") Acción del #[em Garde Manger] 
             th(colspan="2") Por qué es crítico 
         tbody
           tr
             td Recepción 
-            td(colspan="2") Verificar la temperatura de los productos con termómetro. Carnes, pescados y lácteos deben llegar a ≤ 4°C. Los congelados a ≤ -18°C. 
+            td(colspan="2") Verificar la temperatura de los productos con termómetro. Carnes, pescados y lácteos deben llegar a ≤ 4 °C. Los congelados a ≤ -18 °C. 
             td(colspan="2") Un producto recibido a temperatura inadecuada ya ha iniciado su deterioro y proliferación bacteriana. 
           tr
             td Almacenamiento 
@@ -149,7 +149,7 @@
           tr
             td Preparación 
             td(colspan="2") Trabajar con lotes pequeños, no dejando los ingredientes fuera de refrigeración por más de 30 minutos. Usar recipientes con hielo para mantener frías las salsas. 
-            td(colspan="2") El tiempo fuera de frío es acumulativo. Cada minuto que un alimento pasa en la "zona de peligro" (5°C - 60°C) aumenta el riesgo de ETA. 
+            td(colspan="2") El tiempo fuera de frío es acumulativo. Cada minuto que un alimento pasa en la "zona de peligro" (5 °C - 60 °C) aumenta el riesgo de ETA. 
           tr
             td Servicio 
             td(colspan="2") Mantener ensaladas, salsas y patés en fuentes de baño maría con hielo o en refrigeradores de mostrador. 
@@ -174,7 +174,7 @@
               img(src="@/assets/curso/tema1/16.png", alt="alt")
           .crd_hover_txt--body.p-4.pt-3
             h4.mb-3 Recepción  
-            p.mb-0 Verifique temperatura (≤ 4°C) y aspecto de los productos. Rechace si hay ruptura de cadena.    
+            p.mb-0 Verifique temperatura (≤ 4 °C) y aspecto de los productos. Rechace si hay ruptura de cadena.    
       .col-sm-6.col-xl-3.mb-4
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
@@ -234,7 +234,7 @@
         :style="{'background-image': `url(${require_src('@/assets/curso/tema1/23.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La eficiencia en una cocina profesional depende de una planificación meticulosa. El término francés mise en place significa "poner en su lugar" y es la práctica fundamental para cualquier cocinero, pero especialmente para el Garde Manger, donde los tiempos de servicio son muy rápidos y los pedidos pueden ser numerosos y variados. Una correcta mise en place para cocina fría se divide en dos categorías (Jiménez Cadena, 2024; Ramos Velasco, 2023):
+        p.mb-0 La eficiencia en una cocina profesional depende de una planificación meticulosa. El término francés <em>mise en place</em> significa "poner en su lugar" y es la práctica fundamental para cualquier cocinero, pero especialmente para el #[em Garde Manger], donde los tiempos de servicio son muy rápidos y los pedidos pueden ser numerosos y variados. Una correcta <em>mise en place</em> para cocina fría se divide en dos categorías (Jiménez Cadena, 2024; Ramos Velasco, 2023):
 
     .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5
       .col-sm-10.col-lg-6.mb-4.mb-lg-0
@@ -252,7 +252,7 @@
                   span Lavar, desinfectar y secar las lechugas y hojas verdes.
                 li.mb-0.d-flex
                   i.lista-ul__vineta
-                  span Tener preparados cortes básicos (juliana de zanahoria, brunoise de cebolla, macedonia de vegetales).
+                  span Tener preparados cortes básicos (juliana de zanahoria, #[em brunoise] de cebolla, macedonia de vegetales).
                 li.mb-0.d-flex
                   i.lista-ul__vineta
                   span Elaborar salsas madre frías (mayonesa, vinagreta base, salsa golf, salsa tártara).
@@ -309,7 +309,7 @@
             td(colspan="2") Ensamblar ensaladas, emplatar patés y terrinas, decorar platos. 
           tr
             td(colspan="2") Zona de almacenamiento temporal 
-            td(colspan="3") Recipientes herméticos etiquetados con fecha, papel #[em film], bandejas gastronorm. 
+            td(colspan="3") Recipientes herméticos etiquetados con fecha, papel #[em film], bandejas #[em gastronorm]. 
             td(colspan="2") Guardar los ingredientes ya cortados y las salsas preparadas en refrigeración. 
 
     .row.justify-content-center.align-items-center.mb-4
@@ -317,11 +317,11 @@
         .bg-audio.rounded-4.px-4.py-4.py-lg-0
           .row.align-items-center.justify-content-center
             .col-sm-8.col-lg-8
-              p A continuación, se invita a ir al siguiente podcast: 
+              p A continuación, lo invitamos a consultar siguiente pódcast:
               TarjetaAudio.mb-3.color-terciario(
-                texto="El Garde Manger organización mise en place y control de la cadena de frío en la cocina fría. "
+                texto="El <em>Garde Manger</em> organización <em>mise en place</em> y control de la cadena de frío en la cocina fría. "
                 tiempo
-                :audio="require_src('@/assets/curso/podcast/podcast1.mp3')"
+                :audio="require_src('@/assets/curso/podcast/96151560_CF02_Podcast_01.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false")
             .col-8.col-sm-4
               figure

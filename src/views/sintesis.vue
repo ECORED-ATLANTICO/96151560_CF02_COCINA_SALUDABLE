@@ -13,9 +13,9 @@
     
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-9
-        p Se profundizó en la clasificación y elaboración de salsas frías (vinagretas, mayonesas) y aderezos saludables. Luego, el aprendiz se sumergió en preparaciones especializadas como el ceviche (acidificación), los patés y terrinas (<em>farce</em> y <em>mousseline</em>), las mousses, los sándwiches, canapés y las bebidas frías. 
+        p Se profundizó en la clasificación y elaboración de salsas frías (vinagretas, mayonesas) y aderezos saludables. Luego, el aprendiz se sumergió en preparaciones especializadas como el ceviche (acidificación), los patés y terrinas (<em>farce</em> y <em>mousseline</em>), las <em>mousses</em>, los sándwiches, canapés y las bebidas frías. 
         .bg-img.rounded-4.p-4.py-3.overflow-hidden.mb-4.mb-lg-0
-          p.mb-0 Finalmente, se aplicaron los principios del emplatado profesional (balance, color, textura, altura) y las técnicas de decoración, aprendiendo a adaptar la presentación al tipo de servicio (buffet, a la carta, #[em delivery]) y a las necesidades del cliente. La integración de estas competencias posiciona al aprendiz como un experto en cocina fría, capaz de garantizar calidad, inocuidad y un alto valor estético en cada preparación.
+          p.mb-0 Finalmente, se aplicaron los principios del emplatado profesional (balance, color, textura, altura) y las técnicas de decoración, aprendiendo a adaptar la presentación al tipo de servicio (#[em buffet], a la carta, #[em delivery]) y a las necesidades del cliente. La integración de estas competencias posiciona al aprendiz como un experto en cocina fría, capaz de garantizar calidad, inocuidad y un alto valor estético en cada preparación.
       .col-sm-6.col-lg-3
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/sintesis-2.png", alt="")

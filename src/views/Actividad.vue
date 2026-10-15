@@ -53,7 +53,7 @@ export default {
             {
               id: 'd',
               texto:
-                '"Preparar con anticipación", similar al concepto de mise en place.',
+                '"Preparar con anticipación", similar al concepto de <em>mise en place</em>.',
               esCorrecta: false,
             },
           ],
@@ -72,13 +72,13 @@ export default {
             {
               id: 'a',
               texto:
-                'La mise en place constante incluye preparaciones como marinar el pescado para el ceviche o montar canapés para un evento.',
+                'La <em>mise en place</em> constante incluye preparaciones como marinar el pescado para el ceviche o montar canapés para un evento.',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'La mise en place variable son las preparaciones base que se realizan independientemente del menú del día.',
+                'La <em>mise en place</em> variable son las preparaciones base que se realizan independientemente del menú del día.',
               esCorrecta: false,
             },
             {
@@ -90,7 +90,7 @@ export default {
             {
               id: 'd',
               texto:
-                'La mise en place constante y la variable son términos intercambiables que se refieren a la misma acción.',
+                'La <em>mise en place</em> constante y la variable son términos intercambiables que se refieren a la misma acción.',
               esCorrecta: false,
             },
           ],
@@ -352,32 +352,32 @@ export default {
         {
           id: 10,
           texto:
-            'En el contexto de la cocina fría, la "mousseline" y la "mousse" son dos preparaciones diferentes. ¿Cuál de las siguientes afirmaciones es correcta?',
+            'En el contexto de la cocina fría, la <em>"mousseline"</em> y la <em>"mousse"</em> son dos preparaciones diferentes. ¿Cuál de las siguientes afirmaciones es correcta?',
           imagen: '@/assets/actividad/imagen5.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto:
-                'La mousseline es una preparación ligera y aireada que se sirve fría y no requiere cocción, elaborada con ingredientes cocidos y gelatina.',
+                'La <em>mousseline</em> es una preparación ligera y aireada que se sirve fría y no requiere cocción, elaborada con ingredientes cocidos y gelatina.',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'La mousseline es una farce de textura fina con partes iguales de proteína cruda y crema, que requiere cocción, mientras que la mousse se sirve fría con gelatina.',
+                'La <em>mousseline</em> es una <em>farce</em> de textura fina con partes iguales de proteína cruda y crema, que requiere cocción, mientras que la <em>mousse</em> se sirve fría con gelatina.',
               esCorrecta: true,
             },
             {
               id: 'c',
               texto:
-                'La mousse y la mousseline son el mismo tipo de preparación y se elaboran de manera idéntica.',
+                'La <em>mousse</em> y la <em>mousseline</em> son el mismo tipo de preparación y se elaboran de manera idéntica.',
               esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'La mousseline es un tipo de salsa y la mousse es un tipo de ensalada.',
+                'La <em>mousseline</em> es un tipo de salsa y la <em>mousse</em> es un tipo de ensalada.',
               esCorrecta: false,
             },
           ],
