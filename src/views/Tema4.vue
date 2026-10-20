@@ -149,7 +149,7 @@
 
     .titulo-sexto.color-acento-contenido.mb-4.z-2
       h5 Tabla 9.
-      span Puntos clave para un ceviche seguro y delicioso
+      span Diferencia entre #[em mousse] y muselina (#[em mousseline]).
     .tabla-a.color-secundario.tabla-a--text-left.z-2.mb-5
       table
         thead

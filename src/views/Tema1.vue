@@ -282,7 +282,7 @@
                   i.lista-ul__vineta
                   span Montar los canapés o sándwiches según los pedidos.	 
 
-    p.mb-4.mb-lg-5  La organización del puesto de trabajo en la estación del Garde Manger es fundamental para desarrollar las preparaciones de cocina fría de manera ordenada, eficiente y segura. Para lograrlo, la estación puede estructurarse en áreas funcionales destinadas a operaciones específicas, las cuales son:  
+    p.mb-4.mb-lg-5  La organización del puesto de trabajo en la estación del #[em Garde Manger] es fundamental para desarrollar las preparaciones de cocina fría de manera ordenada, eficiente y segura. Para lograrlo, la estación puede estructurarse en áreas funcionales destinadas a operaciones específicas, las cuales son:  
 
     .titulo-sexto.color-acento-contenido.mb-4.z-2
       h5 Tabla 2.
@@ -309,7 +309,7 @@
             td(colspan="2") Ensamblar ensaladas, emplatar patés y terrinas, decorar platos. 
           tr
             td(colspan="2") Zona de almacenamiento temporal 
-            td(colspan="3") Recipientes herméticos etiquetados con fecha, papel #[em film], bandejas #[em gastronorm]. 
+            td(colspan="3") Recipientes herméticos etiquetados con fecha, papel #[em film], bandejas #[em Gastronorm]. 
             td(colspan="2") Guardar los ingredientes ya cortados y las salsas preparadas en refrigeración. 
 
     .row.justify-content-center.align-items-center.mb-4

@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Cocina fría: técnicas, preparaciones y emplatado profesional',
     Description:
-      '​Este componente formativo desarrolla las competencias para elaborar preparaciones de cocina fría de alta calidad. Aborda el dominio de cortes profesionales, la clasificación y preparación de ensaladas, aderezos, vinagretas y salsas frías. Profundiza en técnicas especializadas como la acidificación (ceviches, escabeches), la elaboración de patés, terrinas, galantinas, <em>mousses</em>, sándwiches, canapés y bebidas frías. Finaliza con los principios del emplatado profesional y la decoración de platos según las necesidades del cliente',
+      '​Este componente formativo desarrolla las competencias para elaborar preparaciones de cocina fría de alta calidad. Aborda el dominio de cortes profesionales, la clasificación y preparación de ensaladas, aderezos, vinagretas y salsas frías. Profundiza en técnicas especializadas como la acidificación (ceviches, escabeches), la elaboración de patés, terrinas, galantinas, <em>mousses</em>, sándwiches, canapés y bebidas frías. Finaliza con los principios del emplatado profesional y la decoración de platos según las necesidades del cliente.',
     imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
   },
