@@ -95,7 +95,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'La mise en place constante son las preparaciones base (lechugas lavadas, cortes básicos, salsas madre). La variable es la específica para el menú del día.',
+            'La <em>mise en place</em> constante son las preparaciones base (lechugas lavadas, cortes básicos, salsas madre). La variable es la específica para el menú del día.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -131,7 +131,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Ensaladas, ceviches y sándwiches no se calientan antes de servir, por lo que la temperatura debe controlarse strictly / estrictamente desde la recepción hasta el servicio.',
+            'Ensaladas, ceviches y sándwiches no se calientan antes de servir, por lo que la temperatura debe controlarse <em>strictly</em> / estrictamente desde la recepción hasta el servicio.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -204,7 +204,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'La chiffonade es perfecta para albahaca, espinaca o lechuga, aportando una textura delicada y una presentación elegante.',
+            'La <em>chiffonade</em> es perfecta para albahaca, espinaca o lechuga, aportando una textura delicada y una presentación elegante.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -238,7 +238,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. Estos cuatro elementos (base, cuerpo, aderezo y guarnición) son fundamentales para construir una ensalada equilibrada y profesional.',
+            'Estos cuatro elementos (base, cuerpo, aderezo y guarnición) son fundamentales para construir una ensalada equilibrada y profesional.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -345,7 +345,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'La terrina no lleva masa y se cuece a baño maría; el paté (en croûte) va envuelto en masa y se hornea.',
+            'La terrina no lleva masa y se cuece a baño maría; el paté (en <em>croûte</em>) va envuelto en masa y se hornea.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -526,7 +526,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'El "swipe" es una de las técnicas más elegantes y utilizadas en el emplatado moderno.',
+            'El "<em>swipe</em>" es una de las técnicas más elegantes y utilizadas en el emplatado moderno.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -560,7 +560,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'El tourné es un corte decorativo en forma de barril realizado con cuchillo puntilla. Los chips se hacen con mandolina.',
+            'El <em>tourné</em> es un corte decorativo en forma de barril realizado con cuchillo puntilla. Los chips se hacen con mandolina.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -633,7 +633,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Para delivery, la prioridad es la funcionalidad del empaque para preservar temperatura y textura, no decoraciones complejas.',
+            'Para <em>delivery</em>, la prioridad es la funcionalidad del empaque para preservar temperatura y textura, no decoraciones complejas.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -667,7 +667,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. El bastón es el corte clásico para papas a la francesa y vegetales crudos.',
+            'El bastón es el corte clásico para papas a la francesa y vegetales crudos.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -703,7 +703,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Los canapés calientes se llevan del freezer directamente al horno, sin descongelar, para que no se humedezcan.',
+            'Los canapés calientes se llevan del <em>freezer</em> directamente al horno, sin descongelar, para que no se humedezcan.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },

@@ -309,7 +309,7 @@
             td(colspan="2") Ensamblar ensaladas, emplatar patés y terrinas, decorar platos. 
           tr
             td(colspan="2") Zona de almacenamiento temporal 
-            td(colspan="3") Recipientes herméticos etiquetados con fecha, papel #[em film], bandejas #[em Gastronorm]. 
+            td(colspan="3") Recipientes herméticos etiquetados con fecha, papel #[em film], bandejas Gastronorm. 
             td(colspan="2") Guardar los ingredientes ya cortados y las salsas preparadas en refrigeración. 
 
     .row.justify-content-center.align-items-center.mb-4
