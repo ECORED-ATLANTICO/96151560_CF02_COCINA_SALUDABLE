@@ -603,7 +603,7 @@ export default {
         {
           id: 17,
           texto:
-            'Para un servicio tipo delivery, el enfoque del emplatado debe ser:',
+            'Para un servicio tipo <em>delivery</em>, el enfoque del emplatado debe ser:',
           imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
@@ -698,7 +698,7 @@ export default {
             {
               id: 'd',
               texto:
-                'Se llevan del freezer directamente al horno, sin descongelar, para que no se humedezcan.',
+                'Se llevan del <em>freezer</em> directamente al horno, sin descongelar, para que no se humedezcan.',
               esCorrecta: true,
             },
           ],
