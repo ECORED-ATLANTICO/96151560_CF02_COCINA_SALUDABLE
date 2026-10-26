@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Cocina fría: técnicas, preparaciones y emplatado profesional',
     Description:
-      '​Este componente formativo desarrolla las competencias para elaborar preparaciones de cocina fría de alta calidad. Aborda el dominio de cortes profesionales, la clasificación y preparación de ensaladas, aderezos, vinagretas y salsas frías. Profundiza en técnicas especializadas como la acidificación (ceviches, escabeches), la elaboración de patés, terrinas, galantinas, <em>mousses</em>, sándwiches, canapés y bebidas frías. Finaliza con los principios del emplatado profesional y la decoración de platos según las necesidades del cliente.',
+      '​Este componente formativo desarrolla las competencias para elaborar preparaciones de cocina fría de alta calidad. Aborda el dominio de cortes profesionales, la clasificación y preparación de ensaladas, aderezos, vinagretas y salsas frías. Profundiza en técnicas especializadas como la acidificación (ceviches, escabeches), la elaboración de <em>patés</em>, terrinas, galantinas, <em>mousses, sándwiches, canapés</em> y bebidas frías. Finaliza con los principios del emplatado profesional y la decoración de platos según las necesidades del cliente.',
     imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
   },
@@ -65,7 +65,7 @@ export default {
           {
             numero: '2.2',
             titulo:
-              'Cortes especializados (<em>chiffonade</em>, <em>tourné</em>, <em>concassé</em>, chips, paisana)',
+              'Cortes especializados (<em>chiffonade</em>, <em>tourné</em>, <em>concassé</em>, <em>chips</em>, paisana)',
             hash: 't_2_2',
           },
           {
@@ -121,7 +121,7 @@ export default {
           {
             numero: '4.2',
             titulo:
-              'Patés, terrinas y galantinas: la <em>farce</em> y la <em>mousseline</em>',
+              '<em>Patés</em>, terrinas y galantinas: la <em>farce</em> y la <em>mousseline</em>',
             hash: 't_4_2',
           },
           {
@@ -132,7 +132,7 @@ export default {
           {
             numero: '4.4',
             titulo:
-              'Sándwiches, <em>canapés</em> y pasabocas: técnicas de montaje y conservación',
+              '<em>Sándwiches</em>, <em>canapés</em> y pasabocas: técnicas de montaje y conservación',
             hash: 't_4_4',
           },
           {
@@ -254,7 +254,7 @@ export default {
     {
       termino: '<em>Farce</em>',
       significado:
-        'Mezcla de carnes magras, grasas, huevos, crema y especias, procesada hasta obtener una pasta fina, utilizada como relleno en patés, terrinas y galantinas.',
+        'Mezcla de carnes magras, grasas, huevos, crema y especias, procesada hasta obtener una pasta fina, utilizada como relleno en <em>patés</em>, terrinas y galantinas.',
     },
     {
       termino: '<em>Garde Manger</em>',
@@ -292,14 +292,14 @@ export default {
         'Tipo de <em>farce</em> de textura muy fina y aireada, elaborada con partes iguales de proteína cruda y crema de leche.',
     },
     {
-      termino: 'Paté',
+      termino: '<em>Paté</em>',
       significado:
         'Preparación de cocina fría que consiste en una <em>farce</em> de carnes (a menudo hígado) envuelta en una masa y horneada. Se sirve frío.',
     },
     {
       termino: 'Terrina',
       significado:
-        'Preparación similar al paté, pero cocida a baño maría en un molde (terrina) sin masa. Se sirve fría en rebanadas.',
+        'Preparación similar al <em>paté</em>, pero cocida a baño maría en un molde (terrina) sin masa. Se sirve fría en rebanadas.',
     },
     {
       termino: '<em>Tourné</em>',

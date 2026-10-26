@@ -22,7 +22,7 @@ export default {
       tema: 'Domina la cocina fría: técnicas, preparaciones y emplatado.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> evaluar la capacidad del aprendiz para reconocer los cortes adecuados según la preparación, identificar las partes de una ensalada, clasificar las salsas frías, distinguir las técnicas de preparación (ceviche, paté, terrina, <em>mousse</em>, canapé) y aplicar los principios del emplatado profesional.',
+        '<b> Objetivo:</b> evaluar la capacidad del aprendiz para reconocer los cortes adecuados según la preparación, identificar las partes de una ensalada, clasificar las salsas frías, distinguir las técnicas de preparación (ceviche, <em>paté</em>, terrina, <em>mousse</em>, canapé) y aplicar los principios del emplatado profesional.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
@@ -72,7 +72,7 @@ export default {
             {
               id: 'a',
               texto:
-                'La <em>mise en place</em> constante incluye preparaciones como marinar el pescado para el ceviche o montar canapés para un evento.',
+                'La <em>mise en place</em> constante incluye preparaciones como marinar el pescado para el ceviche o montar <em>canapés</em> para un evento.',
               esCorrecta: false,
             },
             {
@@ -131,7 +131,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Ensaladas, ceviches y sándwiches no se calientan antes de servir, por lo que la temperatura debe controlarse <em>strictly</em> / estrictamente desde la recepción hasta el servicio.',
+            'Ensaladas, ceviches y <em>sándwiches</em> no se calientan antes de servir, por lo que la temperatura debe controlarse <em>strictly</em> / estrictamente desde la recepción hasta el servicio.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -181,7 +181,7 @@ export default {
             {
               id: 'a',
               texto:
-                'Obtener láminas muy finas de vegetales para hacer chips crujientes.',
+                'Obtener láminas muy finas de vegetales para hacer <em>chips</em> crujientes.',
               esCorrecta: false,
             },
             {
@@ -233,7 +233,7 @@ export default {
             },
             {
               id: 'd',
-              texto: 'Frutas, verduras, aderezo y crutones.',
+              texto: 'Frutas, verduras, aderezo y <em>crutones</em>.',
               esCorrecta: false,
             },
           ],
@@ -316,36 +316,36 @@ export default {
         {
           id: 9,
           texto:
-            '¿Cuál es la diferencia principal entre una terrina y un paté?',
+            '¿Cuál es la diferencia principal entre una terrina y un <em>paté</em>?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto:
-                'La terrina se cocina en un molde de barro sin masa, a baño maría, mientras que el paté va envuelto en masa y se hornea.',
+                'La terrina se cocina en un molde de barro sin masa, a baño maría, mientras que el <em>paté</em> va envuelto en masa y se hornea.',
               esCorrecta: true,
             },
             {
               id: 'b',
               texto:
-                'La terrina es siempre dulce, mientras que el paté es salado.',
+                'La terrina es siempre dulce, mientras que el <em>paté</em> es salado.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'El paté se sirve caliente y la terrina fría.',
+              texto: 'El <em>paté</em> se sirve caliente y la terrina fría.',
               esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'La terrina utiliza pescado y el paté utiliza carne de cerdo exclusivamente.',
+                'La terrina utiliza pescado y el <em>paté</em> utiliza carne de cerdo exclusivamente.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'La terrina no lleva masa y se cuece a baño maría; el paté (en <em>croûte</em>) va envuelto en masa y se hornea.',
+            'La terrina no lleva masa y se cuece a baño maría; el <em>paté</em> (en <em>croûte</em>) va envuelto en masa y se hornea.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -388,7 +388,7 @@ export default {
         },
         {
           id: 11,
-          texto: 'El origen del sándwich se atribuye a:',
+          texto: 'El origen del <em>sándwich</em> se atribuye a:',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
@@ -418,14 +418,14 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Esta anécdota histórica es el origen del sándwich como lo conocemos hoy.',
+            'Esta anécdota histórica es el origen del <em>sándwich</em> como lo conocemos hoy.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 12,
           texto:
-            'En la elaboración de canapés fríos con base de masa, se recomienda una técnica específica para mantener su textura. Esta técnica consiste en:',
+            'En la elaboración de <em>canapés</em> fríos con base de masa, se recomienda una técnica específica para mantener su textura. Esta técnica consiste en:',
           imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
@@ -539,7 +539,7 @@ export default {
             {
               id: 'a',
               texto:
-                'Obtener láminas muy finas de vegetales para hacer chips crujientes como decoración.',
+                'Obtener láminas muy finas de vegetales para hacer <em>chips</em> crujientes como decoración.',
               esCorrecta: false,
             },
             {
@@ -560,7 +560,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'El <em>tourné</em> es un corte decorativo en forma de barril realizado con cuchillo puntilla. Los chips se hacen con mandolina.',
+            'El <em>tourné</em> es un corte decorativo en forma de barril realizado con cuchillo puntilla. Los <em>chips</em> se hacen con mandolina.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -657,7 +657,7 @@ export default {
             },
             {
               id: 'c',
-              texto: 'Ensaladas verdes y guarniciones de sándwiches.',
+              texto: 'Ensaladas verdes y guarniciones de <em>sándwiches</em>.',
               esCorrecta: false,
             },
             {
@@ -674,14 +674,14 @@ export default {
         {
           id: 19,
           texto:
-            'Los canapés calientes, a diferencia de los canapés fríos, se preparan de la siguiente manera:',
+            'Los <em>canapés</em> calientes, a diferencia de los <em>canapés</em> fríos, se preparan de la siguiente manera:',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto:
-                'Se descongelan en la heladera antes de hornearse, al igual que los canapés fríos.',
+                'Se descongelan en la heladera antes de hornearse, al igual que los <em>canapés</em> fríos.',
               esCorrecta: false,
             },
             {
@@ -703,7 +703,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Los canapés calientes se llevan del <em>freezer</em> directamente al horno, sin descongelar, para que no se humedezcan.',
+            'Los <em>canapés</em> calientes se llevan del <em>freezer</em> directamente al horno, sin descongelar, para que no se humedezcan.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },

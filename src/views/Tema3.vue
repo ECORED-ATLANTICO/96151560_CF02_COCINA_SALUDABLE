@@ -50,7 +50,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-7.mb-4.mb-lg-0
               h5 Guarnición (o adorno)
-              p.mb-0 Son los elementos decorativos y de contraste que añaden color, textura crujiente, sabor extra o altura al plato. Se colocan estratégicamente sobre el cuerpo o alrededor de él. Ejemplos: picatostes, frutos secos, semillas, hierbas frescas, rodajas de huevo duro, aceitunas, tiras de pimiento, chips de vegetales. 
+              p.mb-0 Son los elementos decorativos y de contraste que añaden color, textura crujiente, sabor extra o altura al plato. Se colocan estratégicamente sobre el cuerpo o alrededor de él. Ejemplos: picatostes, frutos secos, semillas, hierbas frescas, rodajas de huevo duro, aceitunas, tiras de pimiento, #[em chips] de vegetales. 
             .col-lg-5
               figure
                 img(src='@/assets/curso/tema3/5.png', alt='')
@@ -259,13 +259,13 @@
         tbody
           tr
             td(colspan="2") Ensalada César 
-            td(colspan="3") Lechuga romana, pechuga de pollo a la plancha (o crutones). 
+            td(colspan="3") Lechuga romana, pechuga de pollo a la plancha (o #[em crutones]). 
             td(colspan="3") Salsa César (mayonesa, anchoas, ajo, queso parmesano, limón). 
-            td(colspan="2") Queso parmesano en láminas, crutones de pan. 
+            td(colspan="2") Queso parmesano en láminas, #[em crutones] de pan. 
           tr
             td(colspan="2") Ensalada Waldorf
             td(colspan="3") Manzana verde #[em (Granny Smith)], apio, nueces. 
-            td(colspan="3") Mayonesa (o yogur griego para una versión ligera), jugo de limón. 
+            td(colspan="3") Mayonesa (o #[em yogur] griego para una versión ligera), jugo de limón. 
             td(colspan="2") Hojas de lechuga como base. 
           tr
             td(colspan="2") Ensalada Nicoise 

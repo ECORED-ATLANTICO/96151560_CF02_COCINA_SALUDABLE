@@ -25,7 +25,7 @@
               figure
                 img(src="@/assets/curso/introduccion/3.svg", alt="")
             .col-lg-11
-              p.mb-0 Dominar la cocina fría es, por lo tanto, la marca de un profesional completo y meticuloso. De esta área dependen desde las entradas más sencillas —una ensalada verde con una vinagreta equilibrada— hasta las elaboraciones más complejas y prestigiosas, como una terrina de pato con gelatina de oporto, un #[em buffet] de canapés para un evento de gala o un ceviche con la textura perfecta. El #[em Garde Manger] es el artista de la precisión, el guardián de la cadena de frío y el responsable de que cada bocado frío sea una experiencia inolvidable.
+              p.mb-0 Dominar la cocina fría es, por lo tanto, la marca de un profesional completo y meticuloso. De esta área dependen desde las entradas más sencillas —una ensalada verde con una vinagreta equilibrada— hasta las elaboraciones más complejas y prestigiosas, como una terrina de pato con gelatina de oporto, un #[em buffet] de #[em canapés] para un evento de gala o un ceviche con la textura perfecta. El #[em Garde Manger] es el artista de la precisión, el guardián de la cadena de frío y el responsable de que cada bocado frío sea una experiencia inolvidable.
         p.mb-0 El presente componente formativo, Cocina fría: técnicas, preparaciones y emplatado profesional, ha sido meticulosamente diseñado para transformar al aprendiz en un experto en esta apasionante disciplina. El viaje formativo se inicia con el estudio de los fundamentos históricos y organizacionales de la cocina fría, conociendo la figura del chef #[em Garde Manger] y la importancia vital de la cadena de frío.
       .col-sm-6.col-lg-3.d-none.d-lg-block
         figure
@@ -36,7 +36,7 @@
         :style="{'background-image': `url(${require_src('@/assets/curso/introduccion/4.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Posteriormente, se adentra en el dominio de los cortes, la base técnica sobre la que se construye toda preparación. Luego, explora el universo de las ensaladas, aderezos, vinagretas y salsas frías, para continuar con preparaciones más complejas como ceviches, patés, terrinas, galantinas, <em>mousses</em>, sándwiches y bebidas. 
+        p.mb-0 Posteriormente, se adentra en el dominio de los cortes, la base técnica sobre la que se construye toda preparación. Luego, explora el universo de las ensaladas, aderezos, vinagretas y salsas frías, para continuar con preparaciones más complejas como ceviches, <em>patés</em>, terrinas, galantinas, <em>mousses</em>, <em>sándwiches</em> y bebidas. 
     
     p El recorrido culmina en el arte del emplatado y la decoración, donde el aprendiz aprenderá a presentar sus creaciones como auténticas obras de arte visual, adaptándolas a las necesidades y expectativas de cada cliente y cada tipo de servicio.
 

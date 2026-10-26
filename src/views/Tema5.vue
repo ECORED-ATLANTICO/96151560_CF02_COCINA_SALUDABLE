@@ -39,7 +39,7 @@
           .tarjeta.p-4.bg-contenido-a5.py-5(titulo="Color")
             p.mb-0 Un plato monocromático es visualmente pobre. Use vegetales de diferentes colores (rojo del tomate, verde de la lechuga, naranja de la zanahoria, morado de la berenjena) para crear contraste y atractivo visual. Los colores vivos estimulan el apetito. 
           .tarjeta.p-4.bg-contenido-a5.py-5(titulo="Textura")
-            p.mb-0 La combinación de diferentes texturas en un solo plato crea una experiencia sensorial más rica y placentera. Combine una base suave o cremosa (un puré, una salsa) con un elemento crujiente (chips, frutos secos, semillas, picatostes), una proteína tierna y jugosa, y un vegetal firme y fresco. 
+            p.mb-0 La combinación de diferentes texturas en un solo plato crea una experiencia sensorial más rica y placentera. Combine una base suave o cremosa (un puré, una salsa) con un elemento crujiente (#[em chips], frutos secos, semillas, picatostes), una proteína tierna y jugosa, y un vegetal firme y fresco. 
           .tarjeta.p-4.bg-contenido-a5.py-5(titulo="Altura")
             p.mb-0 Un plato plano y esparcido es poco atractivo. Construya el plato en capas o utilizando montículos para darle volumen y dinamismo. Los aros de emplatar son una herramienta excelente para crear torres o cilindros. Los elementos altos capturan la atención. 
 
@@ -90,7 +90,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-7.mb-4.mb-lg-0
               h5 Decoración con vegetales tallados
-              p.mb-0 El tallado de vegetales, o #[em vegetable carving], es un arte ornamental. Con cuchillos especiales (cuchillos de tallado), se pueden crear figuras decorativas como flores de zanahoria, hojas de pepino, mariposas de rábano o cisnes de manzana, ideales para bufets y eventos especiales.  
+              p.mb-0 El tallado de vegetales, o #[em vegetable carving], es un arte ornamental. Con cuchillos especiales (cuchillos de tallado), se pueden crear figuras decorativas como flores de zanahoria, hojas de pepino, mariposas de rábano o cisnes de manzana, ideales para #[em buffets] y eventos especiales.  
             .col-lg-5
               figure
                 img(src='@/assets/curso/tema5/7.png', alt='')
@@ -98,7 +98,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-7.mb-4.mb-lg-0
               h5 Elementos crujientes como decoración 
-              p.mb-0 Chips de vegetales (betabel, camote, plátano, zanahoria), semillas tostadas (sésamo, calabaza, girasol), frutos secos picados, cebolla frita crujiente, quinoa inflada o germinados.  
+              p.mb-0 #[em Chips] de vegetales (betabel, camote, plátano, zanahoria), semillas tostadas (sésamo, calabaza, girasol), frutos secos picados, cebolla frita crujiente, quinoa inflada o germinados.  
             .col-lg-5
               figure
                 img(src='@/assets/curso/tema5/8.png', alt='')
