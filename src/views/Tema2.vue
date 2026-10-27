@@ -39,7 +39,7 @@
             td(colspan="2") Juliana
             td(colspan="2") 3-4 cm x 2 mm x 2 mm
             td(colspan="3") Corte en láminas finas, luego en tiras finas.
-            td(colspan="3") Ensaladas verdes, guarniciones de #[em sándwiches], salteados.
+            td(colspan="3") Ensaladas verdes, guarniciones de sándwiches, salteados.
           tr
             td(colspan="2") #[em Brunoise]
             td(colspan="2") 2-3 mm x 2-3 mm x 2-3 mm
@@ -126,7 +126,7 @@
           div(titulo="Chips")
             .me-lg-5
               p Láminas muy finas de vegetales (papa, betabel, zanahoria, camote, plátano) obtenidas con mandolina, que luego se hornean, deshidratan o fríen. 
-              p #[strong Aplicación en cocina fría]: decoración crujiente para ensaladas, cremas frías, #[em patés] y terrinas. Aporta textura y color. 
+              p #[strong Aplicación en cocina fría]: decoración crujiente para ensaladas, cremas frías, patés y terrinas. Aporta textura y color. 
               p #[strong Herramienta principal]: mandolina, horno o deshidratador. 
           div(titulo="Paisana")
             .me-lg-5
@@ -168,11 +168,11 @@
             td Macedonia o Juliana (manzana y apio)
             td(colspan="2") Los cortes en tiras o dados mantienen la textura crujiente de los ingredientes. La juliana es más elegante. 
           tr
-            td #[em Sándwich] club
+            td Sándwich club
             td Rodajas finas o Juliana
-            td(colspan="2") El pepino en rodajas finísimas y la lechuga en juliana facilitan el armado y la mordida del #[em sándwich], evitando que los ingredientes se salgan. 
+            td(colspan="2") El pepino en rodajas finísimas y la lechuga en juliana facilitan el armado y la mordida del sándwich, evitando que los ingredientes se salgan. 
           tr
-            td Terrina o #[em paté]
+            td Terrina o paté
             td #[em Brunoise] (para ingredientes añadidos como pistachos o pimientos)
             td(colspan="2") Los ingredientes añadidos deben ser pequeños para no romper la textura homogénea de la #[em farce] y distribuirse uniformemente. 
           tr

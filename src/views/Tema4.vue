@@ -14,7 +14,7 @@
       .col-lg-9
         .bg-img.bg-img--terciario.p-4.rounded-4.mb-3
           p.mb-0 Las preparaciones especializadas de cocina fría reúnen técnicas que permiten transformar y combinar ingredientes para obtener productos con características particulares de sabor, textura, conservación y presentación. Su elaboración exige precisión en los procedimientos, adecuada manipulación de las materias primas, control de temperatura e inocuidad, además de criterios estéticos que contribuyan a lograr preparaciones equilibradas, atractivas y acordes con los principios de la cocina saludable.
-        p.mb-0 Más allá de las ensaladas, la cocina fría alberga un mundo de preparaciones que van desde el uso del ácido como agente "cocción" hasta la elaboración de #[em patés], terrinas, #[em mousses] y #[em canapés]. Estas preparaciones son el sello distintivo de un #[em Garde Manger] experto. 
+        p.mb-0 Más allá de las ensaladas, la cocina fría alberga un mundo de preparaciones que van desde el uso del ácido como agente "cocción" hasta la elaboración de patés, terrinas, #[em mousses] y #[em canapés]. Estas preparaciones son el sello distintivo de un #[em Garde Manger] experto. 
     
     separador
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -77,7 +77,7 @@
 
     separador
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 4.2	#[em Patés], terrinas y galantinas: la #[em farce] y la #[em mousseline] 
+      h2 4.2	Patés, terrinas y galantinas: la #[em farce] y la #[em mousseline] 
 
     p.mb-4.z-2 Estas preparaciones representan la #[em haute cuisine] de la cocina fría. Son elaboraciones que requieren técnica, paciencia, precisión y una presentación impecable. Son el patrimonio del #[em Garde Manger] (Manual de Cocina Fría, s.f.; del Valle Araujo, 2012). A continuación, se muestran sus características más importantes:
 
@@ -177,7 +177,7 @@
           tr
             td Aplicación 
             td(colspan="2") Postres (#[em mousse] de chocolate, frutilla), entrantes fríos (#[em mousse] de salmón, de espárragos). 
-            td(colspan="2") Relleno de #[em patés], terrinas, galantinas; #[em quenelles]. 
+            td(colspan="2") Relleno de patés, terrinas, galantinas; #[em quenelles]. 
 
     p.mb-4 Preparación de una #[em mousse] fría (estructura básica):
     .row.justify-content-center.align-items-stretch.z-2.mb-4.mb-lg-5
@@ -234,7 +234,7 @@
 
       separador
       #t_4_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-        h2 4.4	#[em Sándwiches], #[em canapés] y pasabocas: técnicas de montaje y conservación 
+        h2 4.4	Sándwiches, #[em canapés] y pasabocas: técnicas de montaje y conservación 
 
     .bg-primario-p10.mb-4
       .row.justify-content-center.align-items-center
@@ -243,7 +243,7 @@
             img(src='@/assets/curso/tema4/16.png', alt='')
         .col-lg
           .p-4
-            p.mb-0 Los #[em sándwiches], #[em canapés] y pasabocas constituyen preparaciones versátiles dentro de la cocina fría, cuya elaboración requiere aplicar criterios técnicos relacionados con la selección y combinación de ingredientes, el equilibrio de sabores, colores y texturas, así como el manejo adecuado de las porciones. Su preparación también demanda precisión durante el montaje, cuidado en la presentación y aplicación de condiciones apropiadas de conservación, con el propósito de mantener la frescura, calidad e inocuidad hasta el momento del servicio. Son ideales para menús de almuerzo, eventos, cócteles y #[em buffets]. La estética y la practicidad son clave (Manual de Cocina Fría, s.f.; del Valle Araujo, 2012). 
+            p.mb-0 Los sándwiches, #[em canapés] y pasabocas constituyen preparaciones versátiles dentro de la cocina fría, cuya elaboración requiere aplicar criterios técnicos relacionados con la selección y combinación de ingredientes, el equilibrio de sabores, colores y texturas, así como el manejo adecuado de las porciones. Su preparación también demanda precisión durante el montaje, cuidado en la presentación y aplicación de condiciones apropiadas de conservación, con el propósito de mantener la frescura, calidad e inocuidad hasta el momento del servicio. Son ideales para menús de almuerzo, eventos, cócteles y #[em buffets]. La estética y la practicidad son clave (Manual de Cocina Fría, s.f.; del Valle Araujo, 2012). 
 
     .row.justify-content-center.mb-2
       .col-sm-10.col-lg-9.col-xl-6.mb-4
@@ -252,7 +252,7 @@
             figure
               img(src="@/assets/curso/tema4/17.png", alt="alt")
           .crd_hover_txt--body.p-4
-            h4.mb-2.mb-sm-3 #[em Sándwiches] 
+            h4.mb-2.mb-sm-3 Sándwiches 
             p.mb-0 El origen del sándwich se atribuye a John Montagu, IV Conde de Sándwich (1718-1792), quien, para no interrumpir sus largas sesiones de juego de cartas, pidió que le sirvieran la carne entre dos rebanadas de pan. Hoy existen innumerables versiones: fríos (club sándwich, vegetariano), calientes a la plancha (#[em croque-monsieur], hamburguesas) y abiertos (tostadas, #[em bruschetta]). 
       .col-sm-10.col-lg-9.col-xl-6.mb-4
         .crd_hover_txt(data-aos="flip-left").tarjeta.custom-1
@@ -298,7 +298,7 @@
             td(colspan="2") Los #[em canapés] con base de masa se congelan para que no se humedezcan. Los #[em canapés] fríos se decoran al momento de servir. 
 
     .bg-img.p-4.z-2.rounded-4
-      p.mb-0 #[strong #[em Croque-Monsieur y Croque-Madame]] son #[em sándwiches] calientes clásicos franceses.  
+      p.mb-0 #[strong #[em Croque-Monsieur y Croque-Madame]] son sándwiches calientes clásicos franceses.  
         ul.checklist.ms-3
           li
             span.ps-2 El #[em Croque-Monsieur] se compone de pan de molde, jamón, queso #[em Gruyère] o #[em Emmental], y una fina capa de salsa bechamel, gratinado al horno o a la plancha.  

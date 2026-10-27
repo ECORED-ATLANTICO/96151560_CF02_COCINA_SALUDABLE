@@ -36,7 +36,7 @@
         :style="{'background-image': `url(${require_src('@/assets/curso/introduccion/4.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Posteriormente, se adentra en el dominio de los cortes, la base técnica sobre la que se construye toda preparación. Luego, explora el universo de las ensaladas, aderezos, vinagretas y salsas frías, para continuar con preparaciones más complejas como ceviches, <em>patés</em>, terrinas, galantinas, <em>mousses</em>, <em>sándwiches</em> y bebidas. 
+        p.mb-0 Posteriormente, se adentra en el dominio de los cortes, la base técnica sobre la que se construye toda preparación. Luego, explora el universo de las ensaladas, aderezos, vinagretas y salsas frías, para continuar con preparaciones más complejas como ceviches, patés, terrinas, galantinas, <em>mousses</em>, sándwiches y bebidas. 
     
     p El recorrido culmina en el arte del emplatado y la decoración, donde el aprendiz aprenderá a presentar sus creaciones como auténticas obras de arte visual, adaptándolas a las necesidades y expectativas de cada cliente y cada tipo de servicio.
 

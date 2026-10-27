@@ -22,7 +22,7 @@ export default {
       tema: 'Domina la cocina fría: técnicas, preparaciones y emplatado.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> evaluar la capacidad del aprendiz para reconocer los cortes adecuados según la preparación, identificar las partes de una ensalada, clasificar las salsas frías, distinguir las técnicas de preparación (ceviche, <em>paté</em>, terrina, <em>mousse</em>, canapé) y aplicar los principios del emplatado profesional.',
+        '<b> Objetivo:</b> evaluar la capacidad del aprendiz para reconocer los cortes adecuados según la preparación, identificar las partes de una ensalada, clasificar las salsas frías, distinguir las técnicas de preparación (ceviche, paté, terrina, <em>mousse</em>, canapé) y aplicar los principios del emplatado profesional.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
@@ -131,7 +131,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Ensaladas, ceviches y <em>sándwiches</em> no se calientan antes de servir, por lo que la temperatura debe controlarse <em>strictly</em> / estrictamente desde la recepción hasta el servicio.',
+            'Ensaladas, ceviches y sándwiches no se calientan antes de servir, por lo que la temperatura debe controlarse <em>strictly</em> / estrictamente desde la recepción hasta el servicio.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -316,36 +316,36 @@ export default {
         {
           id: 9,
           texto:
-            '¿Cuál es la diferencia principal entre una terrina y un <em>paté</em>?',
+            '¿Cuál es la diferencia principal entre una terrina y un paté?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto:
-                'La terrina se cocina en un molde de barro sin masa, a baño maría, mientras que el <em>paté</em> va envuelto en masa y se hornea.',
+                'La terrina se cocina en un molde de barro sin masa, a baño maría, mientras que el paté va envuelto en masa y se hornea.',
               esCorrecta: true,
             },
             {
               id: 'b',
               texto:
-                'La terrina es siempre dulce, mientras que el <em>paté</em> es salado.',
+                'La terrina es siempre dulce, mientras que el paté es salado.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'El <em>paté</em> se sirve caliente y la terrina fría.',
+              texto: 'El paté se sirve caliente y la terrina fría.',
               esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'La terrina utiliza pescado y el <em>paté</em> utiliza carne de cerdo exclusivamente.',
+                'La terrina utiliza pescado y el paté utiliza carne de cerdo exclusivamente.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'La terrina no lleva masa y se cuece a baño maría; el <em>paté</em> (en <em>croûte</em>) va envuelto en masa y se hornea.',
+            'La terrina no lleva masa y se cuece a baño maría; el paté (en <em>croûte</em>) va envuelto en masa y se hornea.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -388,7 +388,7 @@ export default {
         },
         {
           id: 11,
-          texto: 'El origen del <em>sándwich</em> se atribuye a:',
+          texto: 'El origen del sándwich se atribuye a:',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
@@ -418,7 +418,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Esta anécdota histórica es el origen del <em>sándwich</em> como lo conocemos hoy.',
+            'Esta anécdota histórica es el origen del sándwich como lo conocemos hoy.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -657,7 +657,7 @@ export default {
             },
             {
               id: 'c',
-              texto: 'Ensaladas verdes y guarniciones de <em>sándwiches</em>.',
+              texto: 'Ensaladas verdes y guarniciones de sándwiches.',
               esCorrecta: false,
             },
             {
