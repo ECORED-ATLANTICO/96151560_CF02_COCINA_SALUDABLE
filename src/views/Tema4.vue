@@ -41,7 +41,7 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema4/3.png", alt="" data-aos="zoom-in-down")
 
-    p.mb-4.mb-lg-5.z-2 Para obtener un ceviche de calidad es necesario considerar varios aspectos que influyen directamente en su inocuidad, textura, sabor y presentación final. La elección adecuada de la materia prima, el control del proceso de preparación y la armonía entre los ingredientes permiten conservar la identidad de esta elaboración y lograr un resultado fresco y equilibrado. A continuación, se presentan los principales puntos clave que deben tenerse en cuenta durante su elaboración.
+    p.mb-4.mb-lg-5.z-2 Para obtener un ceviche de calidad, es necesario considerar varios aspectos que influyen directamente en su inocuidad, textura, sabor y presentación final. La elección adecuada de la materia prima, el control del proceso de preparación y la armonía entre los ingredientes permiten conservar la identidad de esta elaboración y lograr un resultado fresco y equilibrado. A continuación, se presentan los principales puntos clave que deben tenerse en cuenta durante su elaboración.
 
     .titulo-sexto.color-acento-contenido.mb-4.z-2
       h5 Tabla 8.
@@ -55,23 +55,23 @@
             th(colspan="2") Por qué es importante 
         tbody
           tr
-            td Frescura del pescado 
+            td Frescura del pescado. 
             td(colspan="2") Usar pescado de la máxima calidad, con cadena de frío impecable. El pescado debe oler a mar, tener ojos brillantes y carne firme. 
             td(colspan="2") El ácido no mata todas las bacterias. Si el pescado no es fresco, el ceviche será un riesgo para la salud.
           tr
-            td Tipo de pescado 
+            td Tipo de pescado. 
             td(colspan="2") Pescados blancos de carne firme: corvina, robalo, lenguado, mero, pez sierra, atún. 
             td(colspan="2") Las carnes firmes mantienen su textura durante la acidificación y no se deshacen.
           tr
-            td Tiempo de maceración 
+            td Tiempo de maceración. 
             td(colspan="2") De 5 a 15 minutos, dependiendo del tamaño del corte (cubos de 1-1.5 cm). 
             td(colspan="2") Un tiempo excesivo sobre cocina el pescado, volviéndolo gomoso y seco.
           tr
-            td Equilibrio de sabores 
+            td Equilibrio de sabores. 
             td(colspan="2") El ácido se equilibra con el dulzor de la cebolla morada, el picante del ají, el fresco del cilantro y la cremosidad del maíz o la yuca. 
             td(colspan="2") Un buen ceviche es una sinfonía de sabores: ácido, dulce, picante, salado y umami. 
           tr
-            td La "Leche de tigre" 
+            td La "Leche de tigre". 
             td(colspan="2") Es el jugo resultante de la maceración del pescado con limón, cebolla, ají, cilantro y otros ingredientes. Se sirve aparte o como parte del ceviche. 
             td(colspan="2") Es la esencia del ceviche, rica en sabor y considerada un afrodisíaco. 
 
@@ -159,23 +159,23 @@
             th(colspan="2") Muselina (#[em Mousseline]) 
         tbody
           tr
-            td Base 
+            td Base.
             td(colspan="2") Ingredientes cocidos o crudos. 
             td(colspan="2") Ingredientes crudos (carne, pescado, ave). 
           tr
-            td Agente de unión 
+            td Agente de unión. 
             td(colspan="2") Generalmente gelatina (para #[em mousses] frías). 
             td(colspan="2") Huevo, claras de huevo, o panada (mezcla de pan y leche / crema). 
           tr
-            td Textura 
+            td Textura. 
             td(colspan="2") Esponjosa, ligera, fundente. 
             td(colspan="2") Fina, cremosa, similar a una emulsión. 
           tr
-            td Cocción 
+            td Cocción. 
             td(colspan="2") Las #[em mousses] frías no requieren cocción (solo la gelatina). Las calientes se hornean o pochan. 
             td(colspan="2") Requiere cocción (horneado o pochado). 
           tr
-            td Aplicación 
+            td Aplicación. 
             td(colspan="2") Postres (#[em mousse] de chocolate, frutilla), entrantes fríos (#[em mousse] de salmón, de espárragos). 
             td(colspan="2") Relleno de patés, terrinas, galantinas; #[em quenelles]. 
 
@@ -277,23 +277,23 @@
             th(colspan="2") Ejemplo 
         tbody
           tr
-            td Pan / base 
+            td Pan / base. 
             td(colspan="2") Usar pan integral, de centeno, de masa madre, o sin pan (usar vegetales como base). 
             td(colspan="2") Pan integral de espelta, pan de centeno, lechuga como base, rodajas de pepino. 
           tr
-            td Proteína 
+            td Proteína. 
             td(colspan="2") Elegir proteínas magras, sin procesar o bajas en sodio. 
             td(colspan="2") Pechuga de pavo o pollo natural, atún al agua, sardinas, queso fresco, hummus. 
           tr
-            td Vegetales 
+            td Vegetales. 
             td(colspan="2") Incluir una variedad de vegetales frescos para aportar color, textura, fibra y nutrientes. 
             td(colspan="2") Lechuga, tomate, pepino, cebolla morada, aguacate, champiñones, pimientos asados.
           tr
-            td Aderezo / salsa 
+            td Aderezo / salsa. 
             td(colspan="2") Usar aderezos ligeros a base de yogur, mostaza, aguacate o hummus, en lugar de mayonesa comercial. 
             td(colspan="2") Mostaza de Dijon, yogur con hierbas, guacamole, hummus, #[em pesto] sin queso. 
           tr
-            td Técnica de montaje 
+            td Técnica de montaje. 
             td(colspan="2") Para #[em canapés] fríos, montar sobre el base justo antes de servir. Para #[em canapés] calientes, montar y congelar, luego hornear. 
             td(colspan="2") Los #[em canapés] con base de masa se congelan para que no se humedezcan. Los #[em canapés] fríos se decoran al momento de servir. 
 

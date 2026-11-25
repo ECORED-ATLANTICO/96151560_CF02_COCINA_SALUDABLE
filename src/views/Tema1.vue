@@ -139,19 +139,19 @@
             th(colspan="2") Por qué es crítico 
         tbody
           tr
-            td Recepción 
+            td Recepción. 
             td(colspan="2") Verificar la temperatura de los productos con termómetro. Carnes, pescados y lácteos deben llegar a ≤ 4 °C. Los congelados a ≤ -18 °C. 
             td(colspan="2") Un producto recibido a temperatura inadecuada ya ha iniciado su deterioro y proliferación bacteriana. 
           tr
-            td Almacenamiento 
+            td Almacenamiento.
             td(colspan="2") Almacenar inmediatamente en neveras o congeladores. Organizar por tipo: alimentos cocidos arriba, crudos abajo para evitar contaminación cruzada. 
             td(colspan="2") Mantener la temperatura estable (evitar abrir la puerta innecesariamente) es vital para ralentizar el crecimiento bacteriano. 
           tr
-            td Preparación 
+            td Preparación. 
             td(colspan="2") Trabajar con lotes pequeños, no dejando los ingredientes fuera de refrigeración por más de 30 minutos. Usar recipientes con hielo para mantener frías las salsas. 
             td(colspan="2") El tiempo fuera de frío es acumulativo. Cada minuto que un alimento pasa en la "zona de peligro" (5 °C - 60 °C) aumenta el riesgo de ETA. 
           tr
-            td Servicio 
+            td Servicio. 
             td(colspan="2") Mantener ensaladas, salsas y patés en fuentes de baño maría con hielo o en refrigeradores de mostrador. 
             td(colspan="2") El alimento debe permanecer fuera de la zona de peligro hasta el momento de ser consumido. 
 
@@ -296,19 +296,19 @@
             th(colspan="2") Función 
         tbody
           tr
-            td(colspan="2") Zona de corte 
+            td(colspan="2") Zona de corte. 
             td(colspan="3") Tabla de picar (verde para vegetales), juego de cuchillos (chef, puntilla, fileteador), mandolina, afilador (chaira). 
             td(colspan="2") Realizar todos los cortes de vegetales, frutas y proteínas. 
           tr
-            td(colspan="2") Zona de preparación de salsas 
+            td(colspan="2") Zona de preparación de salsas. 
             td(colspan="3") Batidora de mano o procesador de alimentos, #[em bowls], cucharas, espátulas, ingredientes para salsas (aceite, vinagre, yemas, hierbas). 
             td(colspan="2") Emulsionar vinagretas, mayonesas y otras salsas frías. 
           tr
-            td(colspan="2") Zona de montaje 
+            td(colspan="2") Zona de montaje. 
             td(colspan="3") Mesón limpio, pinzas, cucharas para servir, aros de emplatar, mangas pasteleras, fuente para baño de hielo. 
             td(colspan="2") Ensamblar ensaladas, emplatar patés y terrinas, decorar platos. 
           tr
-            td(colspan="2") Zona de almacenamiento temporal 
+            td(colspan="2") Zona de almacenamiento temporal. 
             td(colspan="3") Recipientes herméticos etiquetados con fecha, papel #[em film], bandejas Gastronorm. 
             td(colspan="2") Guardar los ingredientes ya cortados y las salsas preparadas en refrigeración. 
 
@@ -319,7 +319,7 @@
             .col-sm-8.col-lg-8
               p A continuación, lo invitamos a consultar siguiente pódcast:
               TarjetaAudio.mb-3.color-terciario(
-                texto="El #[em Garde Manger] organización #[em mise en place] y control de la cadena de frío en la cocina fría. "
+                texto="El <em>Garde Manger</em> organización <em>mise en place</em> y control de la cadena de frío en la cocina fría. "
                 tiempo
                 :audio="require_src('@/assets/curso/podcast/96151560_CF02_Podcast_01.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false")

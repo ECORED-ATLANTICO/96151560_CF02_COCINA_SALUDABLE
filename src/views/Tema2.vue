@@ -36,28 +36,28 @@
             th(colspan="3") Usos principales en cocina fría 
         tbody
           tr
-            td(colspan="2") Juliana
-            td(colspan="2") 3-4 cm x 2 mm x 2 mm
+            td(colspan="2") Juliana.
+            td(colspan="2") 3-4 cm x 2 mm x 2 mm.
             td(colspan="3") Corte en láminas finas, luego en tiras finas.
             td(colspan="3") Ensaladas verdes, guarniciones de sándwiches, salteados.
           tr
-            td(colspan="2") #[em Brunoise]
-            td(colspan="2") 2-3 mm x 2-3 mm x 2-3 mm
+            td(colspan="2") #[em Brunoise].
+            td(colspan="2") 2-3 mm x 2-3 mm x 2-3 mm.
             td(colspan="3") Picar finamente la juliana.
             td(colspan="3") Salsas frías, rellenos de tartaletas, guarniciones de precisión.
           tr
-            td(colspan="2") Bastón
-            td(colspan="2") 5-6 cm x 7 mm x 7 mm
+            td(colspan="2") Bastón.
+            td(colspan="2") 5-6 cm x 7 mm x 7 mm.
             td(colspan="3") Corte en rebanadas gruesas, luego en bastones.
             td(colspan="3") Verduras para servir como guarnición, vegetales crudos con #[em dip].
           tr
-            td(colspan="2") Macedonia
-            td(colspan="2") 5-8 mm x 5-8 mm x 5-8 mm
+            td(colspan="2") Macedonia.
+            td(colspan="2") 5-8 mm x 5-8 mm x 5-8 mm.
             td(colspan="3") Corte en láminas de 5-8 mm, luego en tiras, luego en dados.
             td(colspan="3") Ensaladas de verduras (ensalada rusa), ensaladas de frutas.
           tr
-            td(colspan="2") Rodajas (#[em Rondelle])
-            td(colspan="2") 2-5 mm de grosor
+            td(colspan="2") Rodajas (#[em Rondelle]).
+            td(colspan="2") 2-5 mm de grosor.
             td(colspan="3") Cortes perpendiculares al eje del vegetal.
             td(colspan="3") Zanahoria, pepino, calabacín para ensaladas o encurtidos.
 
@@ -152,32 +152,32 @@
             th(colspan="2") Razón técnica 
         tbody
           tr
-            td Ensalada de atún 
-            td Macedonia (5-8 mm)
+            td Ensalada de atún.
+            td Macedonia (5-8 mm).
             td(colspan="2") Los vegetales (apio, zanahoria, pepinillos) deben ser del tamaño de las proteínas desmenuzadas para combinar en cada bocado. 
           tr
-            td Ceviche de pescado
-            td Cubos (1-1.5 cm)
+            td Ceviche de pescado.
+            td Cubos (1-1.5 cm).
             td(colspan="2") El pescado se "cocina" en el ácido cítrico. Cortes uniformes garantizan una "cocción" pareja y una textura agradable. 
           tr
-            td #[em Canapés]
-            td #[em Brunoise] (2-3 mm)
+            td #[em Canapés].
+            td #[em Brunoise] (2-3 mm).
             td(colspan="2") Los ingredientes de cobertura (vegetales, huevo, atún) deben ser muy pequeños y uniformes para que cada pequeño bocado sea perfecto y estético. 
           tr
-            td Ensalada Waldorf
-            td Macedonia o Juliana (manzana y apio)
+            td Ensalada Waldorf.
+            td Macedonia o Juliana (manzana y apio).
             td(colspan="2") Los cortes en tiras o dados mantienen la textura crujiente de los ingredientes. La juliana es más elegante. 
           tr
-            td Sándwich club
-            td Rodajas finas o Juliana
+            td Sándwich club.
+            td Rodajas finas o Juliana.
             td(colspan="2") El pepino en rodajas finísimas y la lechuga en juliana facilitan el armado y la mordida del sándwich, evitando que los ingredientes se salgan. 
           tr
-            td Terrina o paté
-            td #[em Brunoise] (para ingredientes añadidos como pistachos o pimientos)
+            td Terrina o paté.
+            td #[em Brunoise] (para ingredientes añadidos como pistachos o pimientos).
             td(colspan="2") Los ingredientes añadidos deben ser pequeños para no romper la textura homogénea de la #[em farce] y distribuirse uniformemente. 
           tr
-            td Sopa fría (gazpacho)
-            td #[em Brunoise] (para las guarniciones)
+            td Sopa fría (gazpacho).
+            td #[em Brunoise] (para las guarniciones).
             td(colspan="2") Las guarniciones del gazpacho (pepino, pimiento, cebolla) se sirven en #[em brunoise] para que floten en el líquido y aporten textura en cada cucharada. 
 
     .row.justify-content-center.align-items-center.mb-4

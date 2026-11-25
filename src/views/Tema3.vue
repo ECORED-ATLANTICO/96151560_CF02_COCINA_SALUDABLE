@@ -91,22 +91,22 @@
             th Aplicación en cocina fría 
         tbody
           tr
-            td Vinagreta clásica 
+            td Vinagreta clásica. 
             td(colspan="2") Aceite de oliva, vinagre de vino, sal, pimienta. 
             td 3:1 
             td Ensaladas verdes simples. 
           tr
-            td Vinagreta de mostaza y miel 
+            td Vinagreta de mostaza y miel. 
             td(colspan="2") Aceite de oliva, vinagre de manzana, mostaza de Dijon, miel. 
             td 3:1 
             td Ensaladas con pollo, queso de cabra o frutas. 
           tr
-            td Vinagreta balsámica 
+            td Vinagreta balsámica. 
             td(colspan="2") Aceite de oliva, vinagre balsámico (preferiblemente reducido), ajo en polvo. 
             td 3:1 
             td Ensaladas con tomate, #[em mozzarella] y albahaca (#[em Caprese]). 
           tr
-            td Vinagreta de frutos rojos 
+            td Vinagreta de frutos rojos. 
             td(colspan="2") Aceite de oliva, vinagre de frambuesa o puré de frutos rojos, miel. 
             td 3:1 
             td Ensaladas con pato, frutos secos o quesos azules. 
@@ -191,22 +191,22 @@
             th(colspan="2") Perfil de sabor 
         tbody
           tr
-            td(colspan="2") Vinagreta de #[em yogur] y hierbas 
+            td(colspan="2") Vinagreta de #[em yogur] y hierbas. 
             td(colspan="3") #[em Yogur] natural griego (0 % grasa), jugo de limón, eneldo fresco, perejil, ajo en polvo, sal y pimienta. 
             td(colspan="3") Mezclar todos los ingredientes en un #[em bowl] con un batidor de mano. Ajustar la acidez con el limón y la sal. 
             td(colspan="2") Cremoso, ácido, refrescante. 
           tr
-            td(colspan="2") Aliño de aguacate y cilantro 
+            td(colspan="2") Aliño de aguacate y cilantro. 
             td(colspan="3") Pulpa de aguacate maduro, jugo de limón, cilantro fresco, un diente de ajo, agua (para ajustar consistencia), sal. 
             td(colspan="3") Licuar todos los ingredientes hasta obtener una crema homogénea. 
             td(colspan="2") Cremoso, untuoso, con un toque herbáceo. 
           tr
-            td(colspan="2") Vinagreta balsámica reducida 
+            td(colspan="2") Vinagreta balsámica reducida. 
             td(colspan="3") Vinagre balsámico (de buena calidad). 
             td(colspan="3") Poner el vinagre en una olla pequeña a fuego medio-bajo. Reducir hasta que adquiera una textura almibarada y se haya reducido a la mitad. No lleva aceite. 
             td(colspan="2") Dulce, ácido, con cuerpo. 
           tr
-            td(colspan="2") Salsa de mostaza y miel ligera 
+            td(colspan="2") Salsa de mostaza y miel ligera. 
             td(colspan="3") Mostaza de Dijon, miel de abeja pura, vinagre de manzana, un chorrito de aceite de oliva (opcional), agua (para aligerar). 
             td(colspan="3") Emulsionar con un batidor de mano. Si queda muy espesa, añadir un poco de agua. El balance de lo dulce y lo ácido es perfecto. 
             td(colspan="2") Dulce, picante, ácido. 
@@ -258,22 +258,22 @@
             th(colspan="2") Guarnición 
         tbody
           tr
-            td(colspan="2") Ensalada César 
+            td(colspan="2") Ensalada César. 
             td(colspan="3") Lechuga romana, pechuga de pollo a la plancha (o #[em crutones]). 
             td(colspan="3") Salsa César (mayonesa, anchoas, ajo, queso parmesano, limón). 
             td(colspan="2") Queso parmesano en láminas, #[em crutones] de pan. 
           tr
-            td(colspan="2") Ensalada Waldorf
+            td(colspan="2") Ensalada Waldorf.
             td(colspan="3") Manzana verde #[em (Granny Smith)], apio, nueces. 
             td(colspan="3") Mayonesa (o #[em yogur] griego para una versión ligera), jugo de limón. 
             td(colspan="2") Hojas de lechuga como base. 
           tr
-            td(colspan="2") Ensalada Nicoise 
+            td(colspan="2") Ensalada Nicoise. 
             td(colspan="3") Atún en agua (o fresco sellado), anchoas, huevo duro, aceitunas negras, ejotes (habichuelas), papa cocida. 
             td(colspan="3") Vinagreta de mostaza y vino tinto. 
             td(colspan="2") Alcaparras, anchoas fileteadas. 
           tr
-            td(colspan="2") Ensalada Griega 
+            td(colspan="2") Ensalada Griega. 
             td(colspan="3") Queso feta, tomate, pepino, cebolla morada, aceitunas negras (Kalamata). 
             td(colspan="3") Vinagreta de orégano y vinagre de vino tinto. 
             td(colspan="2") Orégano seco espolvoreado. 

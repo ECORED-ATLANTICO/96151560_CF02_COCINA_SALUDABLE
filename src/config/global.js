@@ -320,7 +320,7 @@ export default {
     {
       referencia:
         'Codex Alimentarius Commission. (2023). Principios generales de higiene de los alimentos (CXC 1-1969). Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) y Organización Mundial de la Salud (OMS).',
-      link: 'https://www.fao.org/fao-who-codexalimentarius',
+      link: 'https://openknowledge.fao.org/server/api/core/bitstreams/6e28e86b-cf11-466b-b997-6e943b9d6376/content',
     },
     {
       referencia:
