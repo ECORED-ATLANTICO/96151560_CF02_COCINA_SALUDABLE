@@ -18,12 +18,12 @@
           p.mb-0 Finalmente, se aplicaron los principios del emplatado profesional (balance, color, textura, altura) y las técnicas de decoración, aprendiendo a adaptar la presentación al tipo de servicio (#[em buffet], a la carta, #[em delivery]) y a las necesidades del cliente. La integración de estas competencias posiciona al aprendiz como un experto en cocina fría, capaz de garantizar calidad, inocuidad y un alto valor estético en cada preparación.
       .col-sm-6.col-lg-3
         figure
-          img(data-aos="fade-down-right", src="@/assets/curso/sintesis-2.png", alt="Estructura jerárquica que presenta el  componente formativo:  Cocina fría: técnicas, preparaciones y emplatado profesional; organizando los contenidos en cinco áreas articuladas que avanzan desde los fundamentos técnicos y la organización del trabajo hasta la elaboración y presentación de preparaciones. El recorrido integra conocimientos sobre manipulación segura, manejo de ingredientes, aplicación de técnicas culinarias, elaboración de productos fríos y criterios para su presentación y servicio. La estructura evidencia una progresión del aprendizaje que combina conocimientos conceptuales y prácticos, orientados a desarrollar preparaciones seguras, saludables, atractivas y adaptadas a diferentes contextos y necesidades del cliente. ")
+          img(data-aos="fade-down-right", src="@/assets/curso/sintesis-2.png", alt="")
     
     .row.justify-content-center
       .col-lg-12
         figure
-          img.mb-5(src="@/assets/curso/sintesis.svg", alt="")
+          img.mb-5(src="@/assets/curso/sintesis.svg", alt="Estructura jerárquica que presenta el  componente formativo:  Cocina fría: técnicas, preparaciones y emplatado profesional; organizando los contenidos en cinco áreas articuladas que avanzan desde los fundamentos técnicos y la organización del trabajo hasta la elaboración y presentación de preparaciones. El recorrido integra conocimientos sobre manipulación segura, manejo de ingredientes, aplicación de técnicas culinarias, elaboración de productos fríos y criterios para su presentación y servicio. La estructura evidencia una progresión del aprendizaje que combina conocimientos conceptuales y prácticos, orientados a desarrollar preparaciones seguras, saludables, atractivas y adaptadas a diferentes contextos y necesidades del cliente. ")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
